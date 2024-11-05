@@ -1,7 +1,12 @@
 from django.db import models
 # from django.utils.text import slugify
+from rest_framework import response
 
 from django.db.models import Sum, Count
+
+from person.models import Person
+from geography.models import Place
+
 
 # Create your models here.
 # create Book model (id, name book, short name book, category(antiguo o nuevo testamento), descripcion del libro)
@@ -30,14 +35,14 @@ class Book(models.Model):
     def count_verses(self):
         return Reference.objects.filter(book__id=self.id).count()
     
+    
 
 # create Reference model (id, book, chapter, verse, text)
 class Reference(models.Model):
     book = models.ForeignKey(Book, on_delete=models.CASCADE)
     chapter = models.IntegerField()
     verse = models.IntegerField()
-    text = models.TextField()
-    
+    text = models.TextField() 
 
     class Meta:
         verbose_name = ("Reference")
@@ -48,3 +53,27 @@ class Reference(models.Model):
 
     def ref(self):
         return self.__str__()
+
+#model relaciona la tabla Persona con Referencia
+class PersonReference(models.Model):
+    verse = models.ForeignKey(Reference, on_delete=models.CASCADE)
+    person = models.ForeignKey(Person, on_delete=models.CASCADE)
+
+    class Meta:
+        verbose_name = ("PersonReference")
+        verbose_name_plural = ("PersonReferences")
+
+    def __str__(self):
+        return self.person.__str__
+
+#model relaciona la Place table with the Reference table
+class PlaceReference(models.Model):
+    verse = models.ForeignKey(Reference, on_delete=models.CASCADE)
+    place = models.ForeignKey(Place, on_delete=models.CASCADE)
+
+    class Meta:
+        verbose_name = ("PlaceReference")
+        verbose_name_plural = ("PlaceReferences")
+
+    def __str__(self):
+        return self.place.__str__

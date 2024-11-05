@@ -15,10 +15,11 @@ class BookSerializer(serializers.ModelSerializer):
             'count_verses',
         ]
         
-class ReferenceSerializer(serializers.ModelSerializer):
+class ReferenceSerializer(serializers.ModelSerializer):       
     class Meta:
         model = Reference
         fields = [
             'ref',
             'text'
         ]
+        

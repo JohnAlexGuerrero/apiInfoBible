@@ -1,6 +1,8 @@
 from django.contrib import admin
 
-from bookdata.models import Book, Reference
+from bookdata.models import Book, Reference, PersonReference, PlaceReference
+from person.models import Person
+from geography.models import Place
 
 
 # Register your models here.
@@ -12,3 +14,20 @@ class BookAdmin(admin.ModelAdmin):
 class ReferenceAdmin(admin.ModelAdmin):
     list_display = ['__str__','text']
     ordering = ('id',)
+
+@admin.register(Place)
+class PlaceAdmin(admin.ModelAdmin):
+    pass
+
+@admin.register(PlaceReference)
+class PlaceReferenceAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(Person)
+class PersonAdmin(admin.ModelAdmin):
+    pass
+
+@admin.register(PersonReference)
+class PersonReferenceAdmin(admin.ModelAdmin):
+    pass
