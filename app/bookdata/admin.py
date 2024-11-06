@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 from bookdata.models import Book, Reference, PersonReference, PlaceReference
-from person.models import Person
+from person.models import Character
 from geography.models import Place
 
 
@@ -24,8 +24,8 @@ class PlaceReferenceAdmin(admin.ModelAdmin):
     pass
 
 
-@admin.register(Person)
-class PersonAdmin(admin.ModelAdmin):
+@admin.register(Character)
+class CharacterAdmin(admin.ModelAdmin):
     pass
 
 @admin.register(PersonReference)

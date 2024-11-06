@@ -13,6 +13,8 @@ class BookSerializer(serializers.ModelSerializer):
             'description',
             'count_chapters',
             'count_verses',
+            'get_absolute_url',
+            'chapters',
         ]
         
 class ReferenceSerializer(serializers.ModelSerializer):       
@@ -20,6 +22,7 @@ class ReferenceSerializer(serializers.ModelSerializer):
         model = Reference
         fields = [
             'ref',
-            'text'
+            'text',
+            'get_absolute_url',
         ]
         

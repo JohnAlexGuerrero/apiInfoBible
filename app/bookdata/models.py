@@ -4,7 +4,7 @@ from rest_framework import response
 
 from django.db.models import Sum, Count
 
-from person.models import Person
+from person.models import Character
 from geography.models import Place
 
 
@@ -35,6 +35,13 @@ class Book(models.Model):
     def count_verses(self):
         return Reference.objects.filter(book__id=self.id).count()
     
+    def get_absolute_url(self):
+        return f'http://localhost:8000/api/v1/book/{self.id}/'
+    
+    def chapters(self):
+        return [f'http://localhost:8000/api/v1/book/{self.id}/chapter/{x + 1}/' for x in range(self.count_chapters())]
+    
+    
     
 
 # create Reference model (id, book, chapter, verse, text)
@@ -53,11 +60,15 @@ class Reference(models.Model):
 
     def ref(self):
         return self.__str__()
+    
+    def get_absolute_url(self):
+        return f'http://localhost:8000/api/v1/verse/{self.id}/'
+    
 
 #model relaciona la tabla Persona con Referencia
 class PersonReference(models.Model):
     verse = models.ForeignKey(Reference, on_delete=models.CASCADE)
-    person = models.ForeignKey(Person, on_delete=models.CASCADE)
+    character = models.ForeignKey(Character, on_delete=models.CASCADE)
 
     class Meta:
         verbose_name = ("PersonReference")
