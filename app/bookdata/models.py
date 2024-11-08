@@ -4,7 +4,6 @@ from rest_framework import response
 
 from django.db.models import Sum, Count
 
-from person.models import Character
 from geography.models import Place
 
 
@@ -28,18 +27,22 @@ class Book(models.Model):
     def __str__(self):
         return self.name.upper()
     
+    def get_queryset(self):
+        return Reference.objects.filter(book__id=self.id)
+    
     def count_chapters(self):
-        chapters = [x['chapter'] for x in Reference.objects.filter(book__id=self.id).values('chapter')]
+        chapters = [x['chapter'] for x in self.get_queryset().values('chapter')]
         return len(set(chapters))
     
     def count_verses(self):
-        return Reference.objects.filter(book__id=self.id).count()
+        return self.get_queryset().count()
     
     def get_absolute_url(self):
         return f'http://localhost:8000/api/v1/book/{self.id}/'
     
     def chapters(self):
-        return [f'http://localhost:8000/api/v1/book/{self.id}/chapter/{x + 1}/' for x in range(self.count_chapters())]
+        list_chapters = [x['chapter'] for x in self.get_queryset().values('chapter')]
+        return [f'http://localhost:8000/api/v1/book/{self.id}/chapter/{y}/' for y in set(list_chapters)]
     
     
     
@@ -65,17 +68,7 @@ class Reference(models.Model):
         return f'http://localhost:8000/api/v1/verse/{self.id}/'
     
 
-#model relaciona la tabla Persona con Referencia
-class PersonReference(models.Model):
-    verse = models.ForeignKey(Reference, on_delete=models.CASCADE)
-    character = models.ForeignKey(Character, on_delete=models.CASCADE)
 
-    class Meta:
-        verbose_name = ("PersonReference")
-        verbose_name_plural = ("PersonReferences")
-
-    def __str__(self):
-        return self.person.__str__
 
 #model relaciona la Place table with the Reference table
 class PlaceReference(models.Model):

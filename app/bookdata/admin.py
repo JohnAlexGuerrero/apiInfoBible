@@ -1,7 +1,7 @@
 from django.contrib import admin
 
-from bookdata.models import Book, Reference, PersonReference, PlaceReference
-from person.models import Character
+from bookdata.models import Book, Reference, PlaceReference
+from person.models import Character, Feature, Genealogy
 from geography.models import Place
 
 
@@ -28,6 +28,11 @@ class PlaceReferenceAdmin(admin.ModelAdmin):
 class CharacterAdmin(admin.ModelAdmin):
     pass
 
-@admin.register(PersonReference)
-class PersonReferenceAdmin(admin.ModelAdmin):
+@admin.register(Feature)
+class FeatureAdmin(admin.ModelAdmin):
     pass
+
+@admin.register(Genealogy)
+class GenealogyAdmin(admin.ModelAdmin):
+    pass
+
