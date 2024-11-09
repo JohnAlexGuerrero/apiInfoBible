@@ -20,18 +20,6 @@ class Character(models.Model):
     def get_genealogy_url(self):
         return f'http://localhost:8000/api/v1/character/{self.id}/genealogy/'
     
-    
-    def get_features(self):
-        features = Feature.objects.filter(character__id=self.id)
-        return {
-            "verses":[
-                {
-                    "name": f.name.capitalize(),
-                    "verse": f.verse
-                }
-                for f in features            
-            ]
-        }
 
 class Feature(models.Model):
     name = models.CharField(max_length=150, blank=True, null=True)
