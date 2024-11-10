@@ -42,7 +42,8 @@ class Book(models.Model):
     
     def chapters(self):
         list_chapters = [x['chapter'] for x in self.get_queryset().values('chapter')]
-        return [f'http://localhost:8000/api/v1/book/{self.id}/chapter/{y}/' for y in set(list_chapters)]
+        list_chapters_ordering = sorted(list_chapters)
+        return [f'http://localhost:8000/api/v1/book/{self.id}/chapter/{y}/' for y in set(list_chapters_ordering)]
     
     
     
@@ -55,6 +56,7 @@ class Reference(models.Model):
     text = models.TextField() 
 
     class Meta:
+        ordering = ('chapter',)
         verbose_name = ("Reference")
         verbose_name_plural = ("References")
 

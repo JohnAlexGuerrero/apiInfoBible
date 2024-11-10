@@ -3,7 +3,7 @@ from django.contrib import admin
 from bookdata.models import Book, Reference, PlaceReference
 from person.models import Character, Feature, Genealogy
 from geography.models import Place
-
+from event.models import Event
 
 # Register your models here.
 @admin.register(Book)
@@ -36,3 +36,7 @@ class FeatureAdmin(admin.ModelAdmin):
 class GenealogyAdmin(admin.ModelAdmin):
     pass
 
+# event
+@admin.register(Event)
+class EventAdmin(admin.ModelAdmin):
+    pass

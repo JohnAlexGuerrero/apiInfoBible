@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'bookdata',
     'geography',
     'person',
+    'event',
 ]
 
 MIDDLEWARE = [
