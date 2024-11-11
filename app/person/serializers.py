@@ -12,6 +12,8 @@ class CharacterSerializer(serializers.ModelSerializer):
             'name',
             'get_absolute_url',
             'get_genealogy_url',
+            'count_characters',
+            'histories',
         ]
         
 class FeatureSerializer(serializers.ModelSerializer):    

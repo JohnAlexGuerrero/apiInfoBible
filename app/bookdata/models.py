@@ -45,12 +45,16 @@ class Book(models.Model):
         list_chapters_ordering = sorted(list_chapters)
         return [f'http://localhost:8000/api/v1/book/{self.id}/chapter/{y}/' for y in set(list_chapters_ordering)]
     
-    
+    def get_events(self):
+        list_event_title = [y.events.all().values('title') for y in self.references.all()]
+        
+                    
+        return []
     
 
 # create Reference model (id, book, chapter, verse, text)
 class Reference(models.Model):
-    book = models.ForeignKey(Book, on_delete=models.CASCADE)
+    book = models.ForeignKey(Book, on_delete=models.CASCADE, related_name='references')
     chapter = models.IntegerField()
     verse = models.IntegerField()
     text = models.TextField() 
@@ -69,7 +73,6 @@ class Reference(models.Model):
     def get_absolute_url(self):
         return f'http://localhost:8000/api/v1/verse/{self.id}/'
     
-
 
 
 #model relaciona la Place table with the Reference table

@@ -14,5 +14,6 @@ class EventSerializer(serializers.ModelSerializer):
         fields = [
             'title',
             'characters',
-            'verses'
+            'verses',
+            'get_absolute_url',
         ]

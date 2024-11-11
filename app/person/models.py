@@ -20,11 +20,21 @@ class Character(models.Model):
     def get_genealogy_url(self):
         return f'http://localhost:8000/api/v1/character/{self.id}/genealogy/'
     
+    def count_characters(self):
+        return Genealogy.objects.filter(character_1__id=self.id).count()
+    
+    def histories(self):
+        list_events = []
+        events = self.characters.all()
+        for x in events:
+            list_events.append({"title":x.title,"url":f'http://localhost:8000/api/v1/event/{x.id}/'})
+        return list_events
+    
 
 class Feature(models.Model):
     name = models.CharField(max_length=150, blank=True, null=True)
     verse = models.ForeignKey(Reference, on_delete=models.CASCADE)
-    character = models.ForeignKey(Character, on_delete=models.CASCADE)
+    character = models.ForeignKey(Character, on_delete=models.CASCADE, related_name='feature')
     
     class Meta:
         verbose_name = ("Feature")

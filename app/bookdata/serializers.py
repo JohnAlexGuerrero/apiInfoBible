@@ -15,6 +15,7 @@ class BookSerializer(serializers.ModelSerializer):
             'count_verses',
             'get_absolute_url',
             'chapters',
+            'get_events',
         ]
         
 class ReferenceSerializer(serializers.ModelSerializer):       

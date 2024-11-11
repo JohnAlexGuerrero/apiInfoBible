@@ -7,7 +7,7 @@ from person.models import Character
 class Event(models.Model):
     title = models.CharField(max_length=50, unique=True)
     characters = models.ManyToManyField(Character, verbose_name=("characters"), related_name='characters', blank=True)
-    verses = models.ManyToManyField(Reference, verbose_name=("verses"))
+    verses = models.ManyToManyField(Reference, verbose_name=("verses"), related_name='events')
 
     class Meta:
         verbose_name = ("Event")
@@ -16,3 +16,6 @@ class Event(models.Model):
     def __str__(self):
         return self.title.upper()
 
+    def get_absolute_url(self):
+        return f'http://localhost:8000/api/v1/event/{self.id}/'
+    
