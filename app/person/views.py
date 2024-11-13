@@ -18,6 +18,11 @@ class CharacterDetailView(APIView):
         queryset = Feature.objects.filter(character__id=kwargs['pk'])
         serializer = FeatureSerializer(queryset, many=True)
         return Response(serializer.data)
+    
+#Features of character
+class FeatureListCreateApiview(generics.ListCreateAPIView):
+    queryset = Feature.objects.all()
+    serializer_class = FeatureSerializer
 
 class GenealogyDetailView(APIView):
     def get_character(self, id):

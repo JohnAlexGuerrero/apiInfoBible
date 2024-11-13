@@ -30,6 +30,14 @@ class Character(models.Model):
             list_events.append({"title":x.title,"url":f'http://localhost:8000/api/v1/event/{x.id}/'})
         return list_events
     
+    def get_features(self):
+        return [
+            {
+                "feature_name": x.name,
+                "feature_url": f'http://localhost:8000/api/v1/verse/{x.verse_id}/',
+            }
+            for x in self.feature.all()    
+        ]
 
 class Feature(models.Model):
     name = models.CharField(max_length=150, blank=True, null=True)

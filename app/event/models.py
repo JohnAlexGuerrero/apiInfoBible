@@ -19,3 +19,5 @@ class Event(models.Model):
     def get_absolute_url(self):
         return f'http://localhost:8000/api/v1/event/{self.id}/'
     
+    def get_title(self):
+        return self.title

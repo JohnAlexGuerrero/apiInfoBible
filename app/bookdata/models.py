@@ -46,10 +46,24 @@ class Book(models.Model):
         return [f'http://localhost:8000/api/v1/book/{self.id}/chapter/{y}/' for y in set(list_chapters_ordering)]
     
     def get_events(self):
-        list_event_title = [y.events.all().values('title') for y in self.references.all()]
+        references = list(map(lambda x: x.events.all(), self.references.all()))
+        #obtener los capitulos por sus libros
         
-                    
-        return []
+        list_title = []
+        list_events = []
+        
+        for x in references:
+            for y in x:
+                if y.title not in list_title:
+                    list_title.append(y.title)
+                    list_events.append(
+                        {"title": y.title,"event_url":f'http://localhost:8000/api/v1/event/{y.id}/'}
+                    )
+                else:
+                    continue
+            
+        # print(list_events)
+        return list_events
     
 
 # create Reference model (id, book, chapter, verse, text)
