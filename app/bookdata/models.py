@@ -47,7 +47,6 @@ class Book(models.Model):
     
     def get_events(self):
         references = list(map(lambda x: x.events.all(), self.references.all()))
-        #obtener los capitulos por sus libros
         
         list_title = []
         list_events = []
@@ -62,9 +61,25 @@ class Book(models.Model):
                 else:
                     continue
             
-        # print(list_events)
         return list_events
-    
+
+    def get_characters(self):
+        verses = list(map(lambda x : x.events.all(), self.references.all()))
+        
+        list_characters = []
+        list_names = []
+        for x in verses:
+            
+            for y in x:
+                for n in y.characters.all():
+                    if n.name not in list_names:
+                        list_names.append(n.name)
+                        list_characters.append(
+                            {"name_character": n.name, "character_url": f'http://localhost:8000/api/v1/character/{n.id}/'}
+                        )
+                    else:
+                        continue
+        return list_characters
 
 # create Reference model (id, book, chapter, verse, text)
 class Reference(models.Model):

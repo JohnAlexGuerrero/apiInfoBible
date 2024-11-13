@@ -16,6 +16,7 @@ class BookSerializer(serializers.ModelSerializer):
             'get_absolute_url',
             'chapters',
             'get_events',
+            'get_characters',
         ]
         
 class ReferenceSerializer(serializers.ModelSerializer):       
