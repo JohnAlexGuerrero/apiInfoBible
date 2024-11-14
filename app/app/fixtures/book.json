@@ -1,0 +1,25 @@
+[
+    {
+        "model":"bookdata.Book",
+        "pk": 34,
+        "fields":{
+            "name":"nahum",
+            "short_name":"nah",
+            "category":"Antiguo Testamento",
+            "description":"Nahum anunció  que Dios destruirá al pueblo de Nínive por su crueldad en la guerra.",
+            "slug":"nahum"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 35,
+        "fields":{
+            "name":"nahum",
+            "short_name":"nah",
+            "category":"Antiguo Testamento",
+            "description":"Nahum anunció  que Dios destruirá al pueblo de Nínive por su crueldad en la guerra.",
+            "slug":"nahum"
+        }
+    }
+
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "model":"bookdata.Reference",
+        "pk": 300,
+        "fields":{
+            "book":19,
+            "chapter":1,
+            "verse":1,
+            "text": "Bienaventurado el varón que no anduvo en consejo de los malos, Ni estuvo en camino de pecadores, Ni en silla de escarnecedores se ha sentado;"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 301,
+        "fields":{
+            "book":19,
+            "chapter":1,
+            "verse":2,
+            "text": "Sino que en la ley de Jehová esta su delicia, Y en su ley medita de día y de noche."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 302,
+        "fields":{
+            "book":19,
+            "chapter":1,
+            "verse":3,
+            "text": "Será como árbol plantado junto a corrientes de aguas, Que da su fruto en su tiempo, Y su hoja no cae; Y todo lo que hace, prosperará."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 303,
+        "fields":{
+            "book":19,
+            "chapter":1,
+            "verse":4,
+            "text": "No así los malos, Que son como el tamo que arrebata el viento."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 304,
+        "fields":{
+            "book":19,
+            "chapter":1,
+            "verse":5,
+            "text": "Por tanto, no se levantarán los malos en el juicio, Ni los pecadores en la congregación de los justos."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 305,
+        "fields":{
+            "book":19,
+            "chapter":1,
+            "verse":6,
+            "text": "Porque Jehová conoce el camino de los justo; Mas la senda de los malos perecerá."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 306,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":1,
+            "text": "¿Porqué se amotinan las gentes, y los pueblos piensan cosas vanas?"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 307,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":2,
+            "text": "Se levantarán los reyes de la tierra,, Y principes consultarán unidos Contra Jehová y contra su ungido, diciendo:"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 308,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":3,
+            "text": "Rompamos sus ligaduras, Y echemos de nosotros sus cuerdas."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 309,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":4,
+            "text": "el que mora en los cielos se reirá; El señor se burlará de ellos."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 310,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":5,
+            "text": "Luego hablara a ellos en su furor, Y los turbará con su irá."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 311,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":6,
+            "text": "Pero yo he puesto mi rey sobre Sion, mi santo monte."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 312,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":7,
+            "text": "Yo publicaré el decreto; Jehová me ha dicho: Mi hijo eres tú; Yo te engendre hoy."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 313,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":8,
+            "text": "Pideme, y te daré por herencia las naciones, Y como posesión tuya los confines de la tierra."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 314,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":9,
+            "text": "Los quebrantarás con vara de hierro; Como vasija de alfarero los desmenuzarás."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 315,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":10,
+            "text": "Ahora, pués, oh reyes, sed prudentes; Admitid amonestación, jueces de la tierra."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 316,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":11,
+            "text": "Servid a Jehová con temor, Y alegraos con temblor."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 317,
+        "fields":{
+            "book":19,
+            "chapter":2,
+            "verse":12,
+            "text": "Horad al Hijo, para que no se enoje, Y perezcais en el camino; Pues se inflama de pronto su irá. Bienaventurados todos los que él confían."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 318,
+        "fields":{
+            "book":19,
+            "chapter":3,
+            "verse":1,
+            "text": "¡Ohe Jehová, cuánto se han multiplicado mis adversarios! Muchos son los que se levantan contra mí."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 319,
+        "fields":{
+            "book":19,
+            "chapter":3,
+            "verse":2,
+            "text": "Muchos son los que dicen de mí: No hay para él salvación de Dios."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 320,
+        "fields":{
+            "book":19,
+            "chapter":3,
+            "verse":3,
+            "text": "Más tu, Jehová, eres escudo alrededor de mí; Mi gloria, y el que levanta mi cabeza."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 321,
+        "fields":{
+            "book":19,
+            "chapter":3,
+            "verse":4,
+            "text": "Con mi voz clamé a Jehová Y él me respondio desde su monte santo."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 322,
+        "fields":{
+            "book":19,
+            "chapter":3,
+            "verse":5,
+            "text": "Yo me acoste y doromí, Y desperte, porque Jehová me sustentaba."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 323,
+        "fields":{
+            "book":19,
+            "chapter":3,
+            "verse":6,
+            "text": "No temeré a diez millares de gente, Que pusieron sition contra mi."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 324,
+        "fields":{
+            "book":19,
+            "chapter":3,
+            "verse":7,
+            "text": "Levántate, Jehová; Salvame, Dios mio; Porque tu heriste a todos mis enemigos en la mejilla; Los dientes de los perversos quebrantaste."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 325,
+        "fields":{
+            "book":19,
+            "chapter":3,
+            "verse":8,
+            "text": "La salvación es de Jehová; Sobre tu pueblo sea tu bendición."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 326,
+        "fields":{
+            "book":19,
+            "chapter":4,
+            "verse":1,
+            "text": "Respóndeme cuando clamo, oh Dios de mi justicia. Cuando estaba en angustia,tú me hiciste endanchar; Ten misericordia de mí, y oye mi oración."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 327,
+        "fields":{
+            "book":19,
+            "chapter":4,
+            "verse":2,
+            "text": "Hijos de los hombres, ¿hasta cuando volvereís mi honra en infamia, Amaréis la vanidad, y buscaréis la mentira?"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 328,
+        "fields":{
+            "book":19,
+            "chapter":4,
+            "verse":3,
+            "text": "Sabed, pués, que Jehová ha escogido al piadoso para sí; Jehová oirá cuando yo a él clamaré."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 329,
+        "fields":{
+            "book":19,
+            "chapter":4,
+            "verse":4,
+            "text": "temblad, y no pequeís; Meditad en vuestro corazón estando en vuestra cama, y callad."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 330,
+        "fields":{
+            "book":19,
+            "chapter":4,
+            "verse":5,
+            "text": "Ofreced sacrificios de justicia, Y confiad en Jehová."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 331,
+        "fields":{
+            "book":19,
+            "chapter":4,
+            "verse":6,
+            "text": "Muchos son los que dicen: ¿Quién nos mostrará el bien? Alza sobre nosotros, oh Jehová, la luz de tu rostro."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 332,
+        "fields":{
+            "book":19,
+            "chapter":4,
+            "verse":7,
+            "text": "Tú diste alegría a mi corazón, Mayor que la de ellos cuando abundaba su grano y su mosto."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 333,
+        "fields":{
+            "book":19,
+            "chapter":4,
+            "verse":8,
+            "text": "En paz me acostaré, y asimismo dormiré; Porque solo tú Jehová, me haces vivir confiado."
+        }
+    }
+]

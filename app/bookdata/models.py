@@ -68,8 +68,8 @@ class Book(models.Model):
         
         list_characters = []
         list_names = []
+        
         for x in verses:
-            
             for y in x:
                 for n in y.characters.all():
                     if n.name not in list_names:
