@@ -1,0 +1,242 @@
+[
+    {
+        "model":"bookdata.Reference",
+        "pk": 100,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":1,
+            "text": "Estos son los nombres de los hijos de Israel que entraron en Egipto con Jacob; cada uno entro con su familia:"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 101,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":2,
+            "text": "Rubén, Simeón, Leví, Judá,"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 102,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":3,
+            "text": "Isacar, Zabulón, Benjamín,"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 103,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":4,
+            "text": "Dan, Neftalí, Gad y Aser."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 104,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":5,
+            "text": "Todas las personas que le nacieron a Jacob fueron setenta. Y Jose estaba en Egipto."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 105,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":6,
+            "text": "Y murio Jose, y todos sus hermanos, y toda aquella generación."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 106,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":7,
+            "text": "Y los hijos de Israel fructificarón y se multiplicarón, y fuero aumentados y fortalecidos en extremo, y se llenó de ellos la tierra."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 107,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":8,
+            "text": "Entretanto, se levanto en Egipto un nuevo rey que no conocía a José; y dijo a su pueblo:"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 108,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":9,
+            "text": "He aquí, el pueblo de los hijos de Israel es mayor y mas fuerte que nosotros."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 109,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":10,
+            "text": "Ahora, pués, seamos sabios para con él, para que no se multiplique, y acontezca que viniendo guerra, él también se una con nuestros enemigos y pelee contra nosotros, y se vaya de la tierra."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 110,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":11,
+            "text": "Entonces pusieron sobre ellos comisarios de tributo que los amonestasen con sus cargas; y edificaron para Faraón las ciudades de almacenaje, Piton y Ramesés."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 111,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":12,
+            "text": "Pero cuanto más los oprimían, tanto más se multiplicaban y crecían, demanera que los egipcios temían a los hijos de Israel."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 112,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":13,
+            "text": "Y los egipcios hicieron servir a los hijos de Israel con dureza,"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 113,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":14,
+            "text": "y amargaron su vida con dura servidumbre, en hacer barro y ladrillo, y en toda labor del campo y en todo su servicio, al cual los obligaban con rigor."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 114,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":15,
+            "text": "Y habló el rey de Egipto a las parteras de las hebreás, una de las cuales se llamaba Sifra, otra Fúa, y les dijo:"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 115,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":16,
+            "text": "Cuando asistáis a la hebreas en sus partos, y veáis el sexo, si es hijo, matadlo; y si es hija, entonces viva."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 116,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":17,
+            "text": "Pero las parteras temieron a Dios, y no hicieron como les mando el rey de Egipto, sino que preservarón la vida a los niños."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 117,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":18,
+            "text": "Y el rey de Egipto hizo llamar a las parteras y les dijo: ¿Porqué habéis hecho esto, que habéis perservado la vida de los niños?"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 118,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":19,
+            "text": "Y las parteras respondierón a Faraón: Porque las mujeres hebreas no son como las egipcias; pues son robustas, y dan a luz antes que la partera venga a ellas."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 119,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":20,
+            "text": "Y Dios hizo bien a las parteras; y el pueblo se multiplicó y se fortaleció en gran manera."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 120,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":21,
+            "text": "Y por haber las parteras temido a Dios, él prospero sus familias."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 121,
+        "fields":{
+            "book":2,
+            "chapter":1,
+            "verse":22,
+            "text": "Entoncés Faraón mandó a todo el pueblo, diciendo: Echad al río a todo hijo que nazca, y a toda hija preservad la vida."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 122,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":1,
+            "text": "Un varón de la familia de Leví fue y tomo por mujer a una hija de Leví."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 122,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":1,
+            "text": ""
+        }
+    },
+]
