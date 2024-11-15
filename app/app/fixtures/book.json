@@ -14,12 +14,89 @@
         "model":"bookdata.Book",
         "pk": 35,
         "fields":{
-            "name":"nahum",
-            "short_name":"nah",
+            "name":"habacuc",
+            "short_name":"hab",
             "category":"Antiguo Testamento",
-            "description":"Nahum anunció  que Dios destruirá al pueblo de Nínive por su crueldad en la guerra.",
-            "slug":"nahum"
+            "description":"Este libro presenta un dialogo entre Dios y Habacuc sobre la justicia y el sufrimiento.",
+            "slug":"habacuc"
         }
-    }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 36,
+        "fields":{
+            "name":"sofonías",
+            "short_name":"sof",
+            "category":"Antiguo Testamento",
+            "description":"Este profeta anunció el día del Señor, que traería juicio a Judá y a las naciones vecinas. Este futuro día sería de destrucción para muchos, pero un pequeño remanente, siempre fiel a Dios, sobreviria para bendecir al mundo entero.",
+            "slug":"sofonias"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 37,
+        "fields":{
+            "name":"hageo",
+            "short_name":"hag",
+            "category":"Antiguo Testamento",
+            "description":"Después de que el pueblo volvió del exilio. Hageó le recordó darle prioridad a Dios y reconstruir el Templo antes que sus propias casas.",
+            "slug":"hageo"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 38,
+        "fields":{
+            "name":"zacarias",
+            "short_name":"zac",
+            "category":"Antiguo Testamento",
+            "description":"Al igual que Hageó, Zacarias instó al pueblo a reconstruir el Templo, asegurandole la ayuda y bendición de Dios. Sus visiones apuntaban hacia un futuro brillante.",
+            "slug":"zacarias"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 39,
+        "fields":{
+            "name":"malaquias",
+            "short_name":"mal",
+            "category":"Antiguo Testamento",
+            "description":"Después del retorno del exilio, el pueblo llegó de nuevo a descuidar su vida religiosa. Malaquias trató de inspirarlos de nuevo hablandoles de 'el día del Señor'.",
+            "slug":"malaquias"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 40,
+        "fields":{
+            "name":"san mateo",
+            "short_name":"mt",
+            "category":"Nuevo Testamento",
+            "description":"Este Evangelio cita muchos pasajes del Antiguo Testamento. De esta forma es atractivo al auditorio Judío ante el que presenta a Jesús como el Mesías prometido en las escrituras hebreas. San Mateo narra la historia de Jesús desde su nacimiento hasta su resurrección y pone énfasis especial en las enseñanzas del maestro.",
+            "slug":"san-mateo"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 41,
+        "fields":{
+            "name":"san marcos",
+            "short_name":"mr",
+            "category":"Nuevo Testamento",
+            "description":"San Marcos escribió un evangelio corto conciso y lleno de acción. Sú meta era profundizar en la fe y en la dedicación de los creyentes de la comunidad para la que escribía.",
+            "slug":"san-marcos"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 42,
+        "fields":{
+            "name":"",
+            "short_name":"",
+            "category":"Nuevo Testamento",
+            "description":"",
+            "slug":""
+        }
+    },
 
 ]

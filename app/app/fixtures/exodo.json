@@ -231,11 +231,111 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 122,
+        "pk": 123,
         "fields":{
             "book":2,
             "chapter":2,
             "verse":1,
+            "text": "Un varón de la familia de Leví fue y tomo por mujer a una hija de Leví."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 124,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":2,
+            "text": "la que concibió, y dio a luz un hijo; y viendole que era hermoso, le tuvo escondido tres meses."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 125,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":3,
+            "text": "Pero no puediendo ocultarle mas tiempo, tomó una arquilla de juncos y la calafateo con asfalto y brea, y colocó en ella al niño y lo puso en un carrizal a la orilla del río."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 126,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":4,
+            "text": "Y una hermana suya se puso a lo lejos, para ver lo que le acontecería."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 127,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":5,
+            "text": "Y la hija de Faraón descendió a lavarse a río, y pasandose sus doncellas por la ribera del río, vio ella la arquilla en el carrizal, y envió una criada suya a que la tomase."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 128,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":6,
+            "text": "Y cuando la abrió, vio al niño; he aqui que el niño lloraba. Y teniendo compasión de él,  dijo: De los niños de los hebreos es éste."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 129,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":7,
+            "text": "Entonces su hermana dijo a la hija de Faraón. ¿Iré a llamarte una nodriza de las hebreas, para que te crié este niño?"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 130,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":8,
+            "text": "Y la hija de Faraón respondió: Ve. Entonces fue la doncella, y llamó a la madre del niño,"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 131,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":9,
+            "text": "a la cual dijo la hija de Faraón: lleva este niño y criamelo, y yo te lo pagaré. Y la mujer tomó al niño y lo crió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 132,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":10,
+            "text": "Y cuando el niño creció, ella lo trajo a la hija de Faraón, la cual lo prohijo, y le pusó por nombre Moisés, diciendo: Porque de las aguas lo saque."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 132,
+        "fields":{
+            "book":2,
+            "chapter":2,
+            "verse":10,
             "text": ""
         }
     },
