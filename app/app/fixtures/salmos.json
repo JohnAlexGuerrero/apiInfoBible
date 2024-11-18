@@ -338,5 +338,125 @@
             "verse":8,
             "text": "En paz me acostaré, y asimismo dormiré; Porque solo tú Jehová, me haces vivir confiado."
         }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 334,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":1,
+            "text": "Escucha, oh Jehová, mis palabras; Considera mi gemir."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 335,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":2,
+            "text": "Está atento a la voz de mi clamor, Rey mio y Dios mio, Porqué a ti oraré."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 336,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":3,
+            "text": "Oh eJehová, de mañana oiras mi voz; De mañana me presentaré delante de ti, y esperaré."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 337,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":4,
+            "text": "Porqué tu no eres un Dios que se complace en la maldad; El malo no habitará junto a ti."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 338,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":5,
+            "text": "Los insensatos no estarán delante de tus ojos; Aborreces a todos los que hacen iniquidad."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 339,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":6,
+            "text": "Destruiras a los que hablan mentira; Al hombre sanguinario y engañador abominará Jehová."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 340,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":7,
+            "text": "Mas yo por la abundancia de tu misericordia entrare en tu casa; Adoraré en tu santo templo en tu temor."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 341,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":8,
+            "text": "Guíame, Jehová, en tu justicia, a causa de mis enemigos; Endereza delante de mi tu camino."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 342,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":9,
+            "text": "Porque en la boca de ellos no hay sinceridad; Sus entrañas son maldad, Sepulcro abierto es su garganta, Con su lengua hablan lisonjas."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 343,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":10,
+            "text": "Castigalos, oh Dios; Caigan por sus mismos concejos; Por la multitud de sus trasgreciones hechalos fuera, Porque se rebelaron contra ti."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 344,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":11,
+            "text": "Pero alegresén todos los que en ti confián; Den voces de júbilo para siempre, porque tu los defiendes; En ti se regocijen los que aman tu nombre."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 345,
+        "fields":{
+            "book":19,
+            "chapter":5,
+            "verse":12,
+            "text": "Porque tu, oh Jehová, bendecirás al justo; Como con un escudo lo rodearás de tu favor."
+        }
     }
 ]

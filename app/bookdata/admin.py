@@ -13,7 +13,7 @@ class BookAdmin(admin.ModelAdmin):
 @admin.register(Reference)
 class ReferenceAdmin(admin.ModelAdmin):
     list_display = ['__str__','text']
-    ordering = ('id',)
+    ordering = ('book',)
 
 @admin.register(Place)
 class PlaceAdmin(admin.ModelAdmin):

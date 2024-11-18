@@ -1,0 +1,294 @@
+[
+    {
+        "model": "bookdata.reference",
+        "pk": 2000,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 1,
+            "text": "Oíd, hijos la enseñanza de un padre, Y está atentos, para que conozcáis cordura."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2001,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 2,
+            "text": "Porque os doy buenas enseñanza; No desampararéis mi ley."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2002,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 3,
+            "text": "Porque yo también fui hijo de mi padre, Delicado y único delante de mi madre."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2003,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 4,
+            "text": "Y él me enseñaba, y me decía: Retenga tu corazón mis razones, Guarda mis mandamientos y vivirás."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2004,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 5,
+            "text": "Adquiere sabiduría, adquiere inteligencia; No te olvides ni te apartes de las razones de mi boca."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2005,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 6,
+            "text": "No la dejes, y ella te guardará; Ámala, y te conservará."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2006,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 7,
+            "text": "Sabiduría ante todo; adquiere sabiduría; Y sobre todas tus posesiones adquiere inteligencia."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2007,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 8,
+            "text": "Engrandécela, y ella te engrandecerá; Ella te honrará, cuando tú la hayas abrazado."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2008,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 9,
+            "text": "adorno de Gracia dará a tu cabeza; Corona de hermosura te entregará."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2009,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 10,
+            "text": "Oye, hijo mío, y recibe mis razones, Y se te multiplicarán años de vida."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2010,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 11,
+            "text": "Por el camino de la sabiduría te he encaminado, Y por veredas derechas te he hecho andar."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2011,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 12,
+            "text": "Cuando anduvieres, no se estrechará tus pasos, Y si corrieres, no tropezarás."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2012,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 13,
+            "text": "Retén el consejo, no lo dejes; Guárdalo, porque eso es tu vida."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2013,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 14,
+            "text": "No entres por la Vereda de los impíos, ni vayas por el camino de los malos."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2014,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 15,
+            "text": "Déjala, no pases por ella; Apártate de ella, pasa."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2015,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 16,
+            "text": "Porque no duermen ellos ni has ni han hecho mal, Y pierden el sueño si no han hecho caer a alguno."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2016,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 17,
+            "text": "Porque comen pan de maldad, y beben vino de robos;"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2017,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 18,
+            "text": "Más la senda de los justos es como la luz de la aurora, Que va en aumento hasta que el día es perfecto."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2018,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 19,
+            "text": "El camino de los impíos es como la oscuridad, No saben en qué tropiezan."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2019,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 20,
+            "text": "Hijo mío, está atento a mis palabras; Inclina tu oído a mis razones."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2020,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 21,
+            "text": "No se aparten de tus ojos; Guárdalas en medio de tu corazón."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2021,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 22,
+            "text": "Porque son vida a los que las hayan, Y medicina a todo su cuerpo."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2022,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 23,
+            "text": "Sobre toda cosa guardada, guarda tu corazón; Porque de él mana la vida."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2023,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 24,
+            "text": "Aparta de ti la perversidad de la boca, Y aleja de ti la iniquidad de los labios."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2024,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 25,
+            "text": "Tus ojos miren lo recto, Y diríjanse tus párpados hacia lo que tienes delante."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2025,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 26,
+            "text": "Examina la senda de tus pies, Y todos tus caminos sean rectos."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2026,
+        "fields": {
+            "book": 20,
+            "chapter": 4,
+            "verse": 27,
+            "text": "No te desvíes a la derecha ni a la izquierda; Aparta tu pie del mal."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2027,
+        "fields": {
+            "book": 20,
+            "chapter": 5,
+            "verse": 1,
+            "text": "Hijo mío, está atento a mi sabiduría, Y a mi inteligencia inclina tu oído"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 2028,
+        "fields": {
+            "book": 20,
+            "chapter": 5,
+            "verse": 2,
+            "text": "Para que guardes consejo, Y tus labios conserven la ciencia."
+        }
+    },
+
+
+]

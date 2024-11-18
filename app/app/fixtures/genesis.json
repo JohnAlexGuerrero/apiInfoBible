@@ -159,4 +159,326 @@
             "text": "Y a Set también le nació un hijo, y llamo su nombre Enós. Entonces los hombres comenzarón a invocar el nombre de Jehová."
         }
     },
+    {
+        "model":"bookdata.Reference",
+        "pk": 216,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":1,
+            "text": "Este es el libro de las generaciones de Adán el día en que creó Dios al hombre a semejanza de Dios lo hizo."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 217,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":2,
+            "text": "Varón y hembra los creó y los bendijo, y llamó el nombre de ellos Adán, el día en que fueron creados."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 218,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":3,
+            "text": "Y vivió Adán ciento treinta años, y engendró un hijo a su semejanza, conforme a su imagen, y llamó su nombre Set."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 219,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":4,
+            "text": "Y fueron los días de Adán después que engendró a Set, ochocientos años, y engendró hijos e hijas. "
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 220,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":5,
+            "text": "Y fueron todos los días que vivió Adán novecientos treinta años; y murió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 221,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":6,
+            "text": "Vivió Set ciento cinco años, y engendró a Enos."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 222,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":7,
+            "text": "Y vivió Set después que engendró a Enos, ochocientos siete años, y engendró hijos e hijas."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 223,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":8,
+            "text": "Y fueron todos los días de set novecientos doce años; y murió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 224,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":9,
+            "text": "Vivió Enos noventa años, y engendró a Cainán."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 225,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":10,
+            "text": "Y vivió Enos, después que engendró a Cainán, ochocientos quince años, y engendró hijos e hijas. "
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 226,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":11,
+            "text": "Y fueron todos los días de Enos, novecientos cinco años; y murió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 227,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":12,
+            "text": "Vivió Cainán setenta años, y engendró a Mahalaleel."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 228,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":13,
+            "text": "Y vivió cainán, después que engendró a mahalaleel, ochocientos cuarenta años, y engendró hijos e hijas"
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 228,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":14,
+            "text": "Y fueron todos los días de Cainán, novecientos diez años; y murió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 229,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":15,
+            "text": "Vivió Mahalaleel, sesenta y cinco años, y engendró a Jared."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 230,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":16,
+            "text": "Y vivió Mahalaléel, después que engendró a Jared, ochocientos treinta años, y engendró hijos e hijas. "
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 231,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":17,
+            "text": "Y fueron todos los días de Mahalaleel, ochocientos noventa y cinco años; y murió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 232,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":18,
+            "text": "Vivió Jared, ciento sesenta y dos años, y engendró a Enoc."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 233,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":19,
+            "text": "Y vivió Jared, después que engendró a Enoc, ochocientos años, y engendró hijos e hijas. "
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 234,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":20,
+            "text": "Y fueron todos los días de Jared, novecientos sesenta y dos años; y murió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 235,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":21,
+            "text": "Vivió Enoc, sesenta y cinco años, y engendró a Matusalén."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 236,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":22,
+            "text": "Y caminó Enoc con Dios, después que engendró a Matusalén, trescientos años, y engendró hijos e hijas. "
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 237,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":23,
+            "text": "Y fueron todos los días de Enoc, trescientos sesenta y cinco años."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 238,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":24,
+            "text": "Caminó Enoc con Dios, y desapareció porque le llevó Dios."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 239,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":25,
+            "text": "Vivió Matusalén, ciento ochenta y siete años, y engendró a Lamec."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 240,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":26,
+            "text": "Y vivió Matusalén, después que engendró a Lamec, setecientos ochenta y dos años, y engendró hijos e hijas."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 241,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":27,
+            "text": "Fueron, pues, todos los días de Matusalén, novecientos sesenta y nueve años; y murió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 242,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":28,
+            "text": "Vivió Lamec, ciento ochenta y dos años, y engendró un hijo."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 243,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":29,
+            "text": "y llamó su nombre Noé, diciendo: Este nos aliviará de nuestras obras y del trabajo de nuestras manos, a causa de la tierra que Jehová maldijo."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 244,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":30,
+            "text": "Y vivió Lamec, después que engendró a Noé, quinientos noventa y cinco años , y engendró hijos e hijas."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 245,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":31,
+            "text": "Y fueron todos los días de Lamec, setecientos setenta y siete años; y murió."
+        }
+    },
+    {
+        "model":"bookdata.Reference",
+        "pk": 246,
+        "fields":{
+            "book":1,
+            "chapter":5,
+            "verse":32,
+            "text": "Y siendo Noé de quinientos años, engendró a Sem, a Can y a Jafet."
+        }
+    }
+    
+
 ]
