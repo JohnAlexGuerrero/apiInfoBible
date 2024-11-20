@@ -1,342 +1,642 @@
 [
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 100,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":1,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 1,
             "text": "Estos son los nombres de los hijos de Israel que entraron en Egipto con Jacob; cada uno entro con su familia:"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 101,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":2,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 2,
             "text": "Rubén, Simeón, Leví, Judá,"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 102,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":3,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 3,
             "text": "Isacar, Zabulón, Benjamín,"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 103,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":4,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 4,
             "text": "Dan, Neftalí, Gad y Aser."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 104,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":5,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 5,
             "text": "Todas las personas que le nacieron a Jacob fueron setenta. Y Jose estaba en Egipto."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 105,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":6,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 6,
             "text": "Y murio Jose, y todos sus hermanos, y toda aquella generación."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 106,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":7,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 7,
             "text": "Y los hijos de Israel fructificarón y se multiplicarón, y fuero aumentados y fortalecidos en extremo, y se llenó de ellos la tierra."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 107,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":8,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 8,
             "text": "Entretanto, se levanto en Egipto un nuevo rey que no conocía a José; y dijo a su pueblo:"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 108,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":9,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 9,
             "text": "He aquí, el pueblo de los hijos de Israel es mayor y mas fuerte que nosotros."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 109,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":10,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 10,
             "text": "Ahora, pués, seamos sabios para con él, para que no se multiplique, y acontezca que viniendo guerra, él también se una con nuestros enemigos y pelee contra nosotros, y se vaya de la tierra."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 110,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":11,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 11,
             "text": "Entonces pusieron sobre ellos comisarios de tributo que los amonestasen con sus cargas; y edificaron para Faraón las ciudades de almacenaje, Piton y Ramesés."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 111,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":12,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 12,
             "text": "Pero cuanto más los oprimían, tanto más se multiplicaban y crecían, demanera que los egipcios temían a los hijos de Israel."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 112,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":13,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 13,
             "text": "Y los egipcios hicieron servir a los hijos de Israel con dureza,"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 113,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":14,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 14,
             "text": "y amargaron su vida con dura servidumbre, en hacer barro y ladrillo, y en toda labor del campo y en todo su servicio, al cual los obligaban con rigor."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 114,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":15,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 15,
             "text": "Y habló el rey de Egipto a las parteras de las hebreás, una de las cuales se llamaba Sifra, otra Fúa, y les dijo:"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 115,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":16,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 16,
             "text": "Cuando asistáis a la hebreas en sus partos, y veáis el sexo, si es hijo, matadlo; y si es hija, entonces viva."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 116,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":17,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 17,
             "text": "Pero las parteras temieron a Dios, y no hicieron como les mando el rey de Egipto, sino que preservarón la vida a los niños."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 117,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":18,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 18,
             "text": "Y el rey de Egipto hizo llamar a las parteras y les dijo: ¿Porqué habéis hecho esto, que habéis perservado la vida de los niños?"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 118,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":19,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 19,
             "text": "Y las parteras respondierón a Faraón: Porque las mujeres hebreas no son como las egipcias; pues son robustas, y dan a luz antes que la partera venga a ellas."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 119,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":20,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 20,
             "text": "Y Dios hizo bien a las parteras; y el pueblo se multiplicó y se fortaleció en gran manera."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 120,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":21,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 21,
             "text": "Y por haber las parteras temido a Dios, él prospero sus familias."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 121,
-        "fields":{
-            "book":2,
-            "chapter":1,
-            "verse":22,
+        "fields": {
+            "book": 2,
+            "chapter": 1,
+            "verse": 22,
             "text": "Entoncés Faraón mandó a todo el pueblo, diciendo: Echad al río a todo hijo que nazca, y a toda hija preservad la vida."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 122,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":1,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 1,
             "text": "Un varón de la familia de Leví fue y tomo por mujer a una hija de Leví."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 123,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":1,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 1,
             "text": "Un varón de la familia de Leví fue y tomo por mujer a una hija de Leví."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 124,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":2,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 2,
             "text": "la que concibió, y dio a luz un hijo; y viendole que era hermoso, le tuvo escondido tres meses."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 125,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":3,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 3,
             "text": "Pero no puediendo ocultarle mas tiempo, tomó una arquilla de juncos y la calafateo con asfalto y brea, y colocó en ella al niño y lo puso en un carrizal a la orilla del río."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 126,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":4,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 4,
             "text": "Y una hermana suya se puso a lo lejos, para ver lo que le acontecería."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 127,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":5,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 5,
             "text": "Y la hija de Faraón descendió a lavarse a río, y pasandose sus doncellas por la ribera del río, vio ella la arquilla en el carrizal, y envió una criada suya a que la tomase."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 128,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":6,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 6,
             "text": "Y cuando la abrió, vio al niño; he aqui que el niño lloraba. Y teniendo compasión de él,  dijo: De los niños de los hebreos es éste."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 129,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":7,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 7,
             "text": "Entonces su hermana dijo a la hija de Faraón. ¿Iré a llamarte una nodriza de las hebreas, para que te crié este niño?"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 130,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":8,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 8,
             "text": "Y la hija de Faraón respondió: Ve. Entonces fue la doncella, y llamó a la madre del niño,"
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 131,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":9,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 9,
             "text": "a la cual dijo la hija de Faraón: lleva este niño y criamelo, y yo te lo pagaré. Y la mujer tomó al niño y lo crió."
         }
     },
     {
-        "model":"bookdata.Reference",
+        "model": "bookdata.Reference",
         "pk": 132,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":10,
+        "fields": {
+            "book": 2,
+            "chapter": 2,
+            "verse": 10,
             "text": "Y cuando el niño creció, ella lo trajo a la hija de Faraón, la cual lo prohijo, y le pusó por nombre Moisés, diciendo: Porque de las aguas lo saque."
         }
     },
     {
-        "model":"bookdata.Reference",
-        "pk": 132,
-        "fields":{
-            "book":2,
-            "chapter":2,
-            "verse":10,
-            "text": ""
+        "model": "bookdata.Reference",
+        "pk": 133,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 1,
+            "text": "entonces Moisés respondió diciendo he aquí que ellos no me creerán ni oirán mi voz porque dirán no te ha aparecido Jehová"
         }
     },
+    {
+        "model": "bookdata.Reference",
+        "pk": 134,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 2,
+            "text": "y Jehová dijo qué es eso que tienes en tu mano y él respondió una vara"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 135,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 3,
+            "text": "él le dijo échala en tierra y él ha hecho en tierra y se hizo una culebra Y Moisés huía de ella"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 136,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 4,
+            "text": "Entonces dijo Jehová a Moisés extiende tu mano y tómala por la cola y él extendió su mano y la tomó y se volvió vara en su mano"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 137,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 5,
+            "text": "por esto creerán que se te ha parecido Jehová el Dios de tus padres el Dios de Abraham Dios de Isaac y Dios de Jacob"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 138,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 6,
+            "text": "le dijo además Jehová mete ahora tu mano en tu seno y él metió la mano en su seno y cuando la sacó he aquí que su mano estaba leproso como la nieva"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 139,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 7,
+            "text": "y dijo vuelve a meter tu mano en tu seno y él volvió a meter su mano en su seno y al sacarla de nuevo del seno he aquí que se había vuelto com la otra carne"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 140,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 8,
+            "text": "Si aconteciere que no te creyeren ni obedecieren a la voz de la primera señal, creerán a la voz de la postrera."
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 141,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 9,
+            "text": "Y si aún no creyeren a estas dos señales ni oyeren tu voz tomarás de las aguas del río y las y las derramarás en tierra y se cambiarán aquellas aguas que tomarás del río y se harán sangre en la tierra"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 142,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 10,
+            "text": "Entonces dijo Moisés a Jehová Ay señor nunca he sido hombre de fácil palabra Ni antes ni desde que tú hablas a tu siervo por qué soy tardo en el hablar y torpe de lengua"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 143,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 11,
+            "text": "y Jehová le respondió Quién dio la boca al hombre o Quién hizo al mudo y al sordo al que ve y al ciego no soy yo Jehová"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 144,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 12,
+            "text": "ahora pues ve y yo estaré con tu boca y te enseñaré lo que hayas de hablar"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 145,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 13,
+            "text": "y él dijo Ay señor envía te ruego por medio del que debes enviar"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 146,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 14,
+            "text": "entonces Jehová se enojó contra Moisés y dijo no conozco yo a tu hermano Aarón levita y que él habla bien Y he aquí que él saldrá a recibirte y al verte se alegrará en su corazón"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 147,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 15,
+            "text": "tú hablarás a él y pondrás en su boca las palabras y yo estaré con tu boca y con la suya y os enseñaré lo hayais de hacer"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 148,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 16,
+            "text": "y él entrará por ti al pueblo él te será a ti en lugar de boca y tú serás para él en lugar de Dios"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 149,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 17,
+            "text": "y tomarás en tu mano esta vara con la cual harás las señales"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 150,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 18,
+            "text": "así se fue Moisés y volviendo a su suegro jetro le dijo iré ahora y volveré a mis hermanos que están en Egipto para ver si aún viven y jetro dijo a Moisés ve en paz"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 151,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 19,
+            "text": "dijo también Jehová a Moisés en María ve y vuélvete a Egipto porque han muerto todos los que procuraban tu muerte"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 152,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 20,
+            "text": "entonces Moisés tomó su mujer y sus hijos y los puso sobre su un asno y volvió a tierra de Egipto tomó también Moisés la vara de Dios en su mano"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 153,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 21,
+            "text": "y dijo Jehová a Moisés cuando hayas vuelto a Egipto mira que hagas delante de Faraón todas las maravillas que he puesto en tu mano pero yo endureceré su corazón de modo que no dejará ir al pueblo"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 154,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 22,
+            "text": "y dirás a faraón Jehová ha dicho así Israel es mi hijo mi primogénito"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 155,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 23,
+            "text": "ya te he dicho que dejes ir a mi hijo para que me sirva más no has querido dejarlo ir He aquí yo voy a matar a tu primogénito"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 156,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 24,
+            "text": "y aconteció en el camino que en una posada Jehová le salió al encuentro y quiso matarlo"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 157,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 25,
+            "text": "Entonces se aforo tomó un pedernal afilado y cortó el prepucio de su hijo y lo echó a sus pies diciendo la verdad tú me eres una esposa de sangre"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 158,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 26,
+            "text": "así le dejó luego ir y ella dijo esposo de sangre a causa de la circuncisión"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 159,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 27,
+            "text": "y Jehová dijo Aarón ve a recibir a Moisés al Desierto y él fue y lo encontró en el Monte de Dios y le besó"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 160,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 28,
+            "text": "entonces con tomo y seis Aarón todas las palabras de Jehová que le enviaba y todas las señales que le había dado"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 161,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 29,
+            "text": "y fueron Moisés y Aarón y reunieron a todos los ancianos de los hijos de Israel"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 162,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 30,
+            "text": "y habló Aarón acerca de todas las cosas que Jehová había dicho a Moisés e hizo las señales delante de los ojos del pueblo"
+        }
+    },
+    {
+        "model": "bookdata.Reference",
+        "pk": 163,
+        "fields": {
+            "book": 2,
+            "chapter": 4,
+            "verse": 31,
+            "text": "y el pueblo creyó y oyendo Que Jehová había visitado a los hijos de Israel y que había visto su aflicción se inclinaron y adoraron"
+        }
+    }
 ]
