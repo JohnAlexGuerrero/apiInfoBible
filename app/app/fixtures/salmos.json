@@ -458,5 +458,215 @@
             "verse":12,
             "text": "Porque tu, oh Jehová, bendecirás al justo; Como con un escudo lo rodearás de tu favor."
         }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 185,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 1,
+            "text": "Te exaltarÚ, mi Dios, mi rey, y bendecirÚ tu nombre eternamente y para siempre."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 186,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 2,
+            "text": "Cada dÝa te bendecirÚ, Y alabare tu nombre eternamente y para siempre."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 187,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 3,
+            "text": "Grande es Jehovß, y digno de suprema alabanza; Y sus grandeza es inescrutable."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 188,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 4,
+            "text": "Generaci¾n a generaci¾n celebrarß tu obras, Y anunciarß tus poderosos hechos."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 189,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 5,
+            "text": "En la hermosura de la gloria de tu magnificencia, Y en tus hechos maravillosos meditarÚ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 190,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 6,
+            "text": "Del poder de tus hechos estupendos hablaran los hombres, Y yo publicarÚ tu grandeza."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 191,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 7,
+            "text": "Proclamaran la memoria de tu inmensa bondad, Y cantarßn tu justicia."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 192,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 8,
+            "text": "Clemente y misericordioso es Jehovß, Lento para la ira, y grande en misericordia."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 193,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 9,
+            "text": "Bueno es Jehovß para con todos, Y sus misericordias sobre todas sus obras."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 194,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 10,
+            "text": "Te alaben, oh Jehovß, todas tus obras, Y tus santos te bendigan."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 195,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 11,
+            "text": "La gloria de tu reino digan, Y hablen de tu poder,"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 196,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 12,
+            "text": "Para hacer saber a los hijos de los hombres sus poderosos hechos, Y la gloria de la magnificencia de su reino."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 197,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 13,
+            "text": "Tu reino es reino de todos los siglos, Y tu se±orÝo en todas las generaciones."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 198,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 14,
+            "text": "Sostiene Jehovß a todos los que caen, Y levanta a todos los oprimidos."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 199,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 15,
+            "text": "Los ojos de todos esperan en ti, Y t· le das su comida a su tiempo."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 200,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 16,
+            "text": "Abres tu mano, Y colmas de bendici¾n a todo ser viviente."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 201,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 17,
+            "text": "Justo es Jehovß en todos sus caminos, Y misericordioso en todas sus obras."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 202,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 18,
+            "text": "Cercano estß Jehovß a todos los que le invocan, A todos los que le invocan de veras."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 203,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 19,
+            "text": "Cumplirß el deseo de los que le temen; Oirß asimismo el clamor de ellos, y los salvarß."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 204,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 20,
+            "text": "Jehovß guarda a todos los que le aman, Mas destruirß a todos los impÝos."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 205,
+        "fields": {
+            "book": 19,
+            "chapter": 145,
+            "verse": 21,
+            "text": "La alabanza de Jehovß proclamarß mi boca; Y todos bendigan su santo nombre eternamente y para siempre."
+        }
     }
 ]

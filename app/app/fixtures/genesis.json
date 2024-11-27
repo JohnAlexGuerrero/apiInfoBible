@@ -1,7 +1,797 @@
 [
     {
+        "model": "bookdata.reference",
+        "pk": 100,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 1,
+            "text": "En el principio cre¾ Dios los cielos y la tierra"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 102,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 2,
+            "text": "Y la tierra estaba desordenada y vacÝa, y las tinieblas estaban sobre la faz del abismo, y el EspÝritu de Dios se movÝa sobre la faz de las aguas."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 103,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 3,
+            "text": "Y dijo Dios: sea la luz; y fue la luz."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 104,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 4,
+            "text": "Y vio Dios que la luz era buena; y separo Dios la luz de la tinieblas."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 105,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 5,
+            "text": "Y llam¾ Dios a la luz DÝa, y a las tinieblas llam¾ Noche. Y fue la tarde y la ma±ana un dÝa."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 106,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 6,
+            "text": "Luego dijo Dios: haya expansi¾n en medio de las aguas, y separe las aguas de las aguas."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 107,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 7,
+            "text": "E hizo Dios la expansi¾n, y separ¾ las aguas que estaban sobre la expansi¾n. Y fue asÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 108,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 8,
+            "text": "Y llam¾ Dios a la expansi¾n Cielos. Y fue la tarde y la ma±ana el dÝa segundo."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 109,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 9,
+            "text": "Dijo tambiÚn Dios: J·ntense las aguas que estßn debajo de los cielos en un lugar, y desc·brase lo seco. Y fue asÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 110,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 10,
+            "text": "Y llam¾ Dios a lo seco Tierra, y a la reuni¾n de las aguas llam¾ Mares. Y vio Dios que era bueno."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 111,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 11,
+            "text": "DespuÚs dijo Dios: produzca la tierra hierba verde, hierba que dÚ semilla; ßrbol de fruto que dÚ fruto seg·n su gÚnero, que su semilla estÚ en Úl, sobre la tierra. Y fue asÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 112,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 12,
+            "text": "Produjo, pues, la tierra hierba verde, hierba que da semilla seg·n su naturaleza, y ßrbol que da fruto, cuya semilla estß en Úl, seg·n su gÚnero. Y vio Dios que era bueno."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 113,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 13,
+            "text": "Y fue la tarde y la ma±ana el dÝa tercero."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 114,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 14,
+            "text": "Dijo luego Dios: Haya lumbreras en la expansi¾n de los cielos para separar el dÝa de la noche; y sirvan de se±ales para las estaciones, para dÝas y a±os."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 115,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 15,
+            "text": "y sean por lumbreras en la expansi¾n de los cielos para alumbrar sobre la tierra. Y fue asÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 116,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 16,
+            "text": "E hizo Dios las dos grandes lumbreras; la lumbrera mayor para se±orear en el dÝa, y la lumbrera menor para que se±orease en la noche; hizo tambiÚn las estrellas."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 117,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 17,
+            "text": "Y las puso Dios en la expansi¾n de los cielos para alumbrar sobre la tierra,"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 118,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 18,
+            "text": "y para se±orear en el dÝa y en la noche, y para separar la luz de las tinieblas. Y vio Dios que era bueno."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 119,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 19,
+            "text": "Y fue la tarde y la ma±ana el dÝa cuarto."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 120,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 20,
+            "text": "Dijo Dios: Produzcan las aguas seres vivientes, y aves que vuelen sobre la tierra, en la abierta expansi¾n de los cielos."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 121,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 21,
+            "text": "Y cre¾ Dios los grandes monstruos marinos, y todo  ser viviente que se mueve, que las aguas produjeron seg·n su gÚnero, y toda ave alada seg·n su especie. Y vio Dios que era bueno."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 122,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 22,
+            "text": "Y Dios los bendijo, diciendo fructificad y multiplicaos, y llenad las aguas en los mares, y multiplÝquense las aves en la tierra."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 123,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 23,
+            "text": "Y fue la tarde y la ma±ana el dÝa quinto."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 124,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 24,
+            "text": "Luego dijo Dios: Produzca la tierra seres vivientes seg·n su gÚnero, bestias y serpientes y animales de la tierra seg·n su especie. Y fue asÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 125,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 25,
+            "text": "E hizo Dios animales de la tierra seg·n su gÚnero, y ganado seg·n su gÚnero, y todo animal que se arrastra sobre la tierra seg·n su especie. Y vio Dios que era bueno."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 126,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 26,
+            "text": "Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y se±oree en los peces del mar, en las aves de los cielos, en las bestias, en toda la tierra, y en todo animal que se arrastra sobre la tierra."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 127,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 27,
+            "text": "Y cre¾ Dios al hombre a su imagen, a imagen de Dios lo cre¾; var¾n y hembra los cre¾."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 128,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 28,
+            "text": "Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad la tierra, y sojuzgadla, y se±oread en los peces del mar, en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 129,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 29,
+            "text": "Y dijo Dios: He aquÝ que os he dado toda planta que da semilla, que esta sobre toda la tierra, y todo ßrbol en que hay fruto y que da semilla; os serßn para comer."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 130,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 30,
+            "text": "Y a toda bestia de la tierra, y a todas las aves de los cielos, y a todo lo que se arrastra sobre la tierra, en que hay vida, toda planta verde les serß para comer. Y fue asÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 131,
+        "fields": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 31,
+            "text": "Y vio Dios todo lo que habÝa hecho, y he aquÝ que era bueno en gran manera. Y fue la tarde y la ma±ana el dÝa sexto."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 132,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 1,
+            "text": "Fueron, pues, acabados los cielos y la tierra, y todo el ejÚrcito de ellos."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 133,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 2,
+            "text": "Y acab¾ Dios en el dÝa sÚptimo la obra que hizo; y repos¾ el dÝa sÚptimo de toda la obra que hizo."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 134,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 3,
+            "text": "Y bendijo Dios al dÝa sÚptimo, y lo santific¾, porque en Úl repos¾ de toda la obra que habÝa hecho en la creaci¾n."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 135,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 4,
+            "text": "Estos son los orÝgenes de los cielos y de la tierra cuando fueron creados, el dÝa que Dios hizo la tierra  y los cielos,"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 136,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 5,
+            "text": "y toda planta del campo antes que fuese en la tierra, y toda la hierba del campo antes que naciese; porque Jehovß Dios aun no habÝa hecho llover sobre la tierra, ni habÝa hombre para que labrase la tierra."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 137,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 6,
+            "text": "sino que subÝa de la tierra un vapor, el cual regaba toda la faz de la tierra."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 138,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 7,
+            "text": "Entonces Jehovß Dios formo al hombre del polvo de la tierra, y sopl¾ en su nariz aliento de vida, y fue el hombre un ser viviente."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 139,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 8,
+            "text": "Y Jehovß planto un huerto en EdÚn, al oriente; y puso allÝ al hombre que habÝa formado."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 140,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 9,
+            "text": "Y Jehovß Dios hizo nacer de la tierra todo ßrbol delicioso a la vista, y bueno para comer; tambiÚn el ßrbol de la ciencia del bien y del mal."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 141,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 10,
+            "text": "Y salÝa de Eden un rÝo para regar el huerto, y de allÝ se repartÝa en cuatro brazos."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 142,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 11,
+            "text": "El nombre del uno era Pis¾n; este es el que rodea toda la tierra de Havila, donde hay oro;"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 143,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 12,
+            "text": "y el oro de aquella tierra es bueno; hay allÝ tambiÚn bedelio y ¾nice."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 144,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 13,
+            "text": "El nombre del segundo rio es Gih¾n; este es el que rodea toda la tierra de Cus."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 145,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 14,
+            "text": "Y el nombre del tercer rÝo es Hidekel; Úste es el que va al oriente de Asiria. Y el cuarto rio es el Eufrates."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 146,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 15,
+            "text": "Tom¾, puÚs, Jehovß Dios al hombre, y lo puso en el huerto de EdÚn, para que lo labrara y lo guardase."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 147,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 16,
+            "text": "Y mand¾ Jehovß Dios al hombre, diciendo: De todo ßrbol del  huerto podrßs comer;"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 148,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 17,
+            "text": "mas del ßrbol de la ciencia del bien y del mal no comerßs; porque el dÝa que de Úl comieres, ciertamente morirßs."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 149,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 18,
+            "text": "Y dijo Jehovß Dios: No es bueno que el hombre estÚ solo; le harÚ ayuda id¾nea para Úl."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 150,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 19,
+            "text": "Jehovß Dios formo, pues, de la tierra toda bestia del campo, y toda ave de los cielos, y las trajo a Adßn para que viese como las debÝa de llamar; y todo lo que Adßn llam¾ a los animales vivientes, ese es su nombre."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 151,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 20,
+            "text": "Y puso Adßn nombre a toda bestia y ave de los cielos y a todo ganado del campo; mas para Adßn no se hallo ayuda id¾nea para Úl."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 152,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 21,
+            "text": "Entonces Jehovß Dios hizo caer sue±o profundo sobre Adßn, y mientras Úste dormÝa, tom¾ una de sus costillas, y cerr¾ la carne en su lugar."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 153,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 23,
+            "text": "Dijo entonces Adßn: Esto es ahora hueso de mis huesos y carne de mi carne; Ústa serß llamada Varona, porque del var¾n fue tomada."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 154,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 24,
+            "text": "Por tanto, dejarß el hombre a su padre y a su madre, y se unirß a su mujer, y serß una sola carne."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 155,
+        "fields": {
+            "book": 1,
+            "chapter": 2,
+            "verse": 25,
+            "text": "Y estaban ambos desnudos, Adßn y su mujer, y no se avergonzaban."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 156,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 1,
+            "text": "Pero la serpiente era astuta, mßs que todos los animales del campo que Jehovß Dios habÝa hechp; la cual dijo a la mujer: ┐Conque Dios os ha dicho: No comßis de todo ßrbol del huerto?"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 157,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 2,
+            "text": "Y la mujer respondi¾ a la serpiente: Del fruto de los ßrboles del huerto podemos comer;"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 158,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 3,
+            "text": "pero del fruto del ßrbol que estß en medio del huerto dijo Dios: No comerÚis de Úl, ni le tocarÚis, para que no murßis."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 159,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 4,
+            "text": "Entonces la serpiente dijo a la mujer: No morirÚis;"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 160,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 5,
+            "text": "sino que sabe Dios que el dÝa que comßis de Úl, serßn abiertos vuestros ojos, y serÚis como Dios, sabiendo el bien y el mal."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 161,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 6,
+            "text": "Y vio la mujer que el ßrbol era bueno para comer, y que era agradable a los ojos, y ßrbol codiciable para alcanzar la sabidurÝa;  y tom¾ de su fruto, y comi¾; y dio tambiÚn a su marido, el cual comi¾ asÝ como ella."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 162,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 7,
+            "text": "Entonces fueron abiertos los ojos de ambos, y conocieron que estaban desnudos; entonces cocieron hojas de higuera, y se hicieron delantales."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 163,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 8,
+            "text": "Y oyeron la voz de Jehovß Dios que se paseaba en el huerto, al aire del dÝa; y el hombre y su mujer se escondieron de la presencia de Jehovß Dios entre los ßrboles del huerto."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 164,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 9,
+            "text": "Mas Jehovß Dios llam¾ al hombre, y le dijo: ┐D¾nde estas t·?"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 165,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 10,
+            "text": "Y Úl respondi¾: OÝ tu voz en el huerto, y tuve miedo, porque estaba desnudo; y me escondÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 166,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 11,
+            "text": "Y Dios le dijo: ┐Quien te ense±o que estabas desnudo? ┐Has comido del ßrbol de que yo te mandÚ no comieses?"
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 167,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 12,
+            "text": "Y e hombre respondi¾: La mujer que me diste por compa±era me dio del ßrbol, y yo comÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 168,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 13,
+            "text": "Entonces Jehovß Dios dijo a la mujer: ┐QuÚ es lo que haz hecho?. Y dijo la mujer: La serpiente me enga±¾, y yo comÝ."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 169,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 14,
+            "text": "Y Jehovß Dios dijo a la serpiente: Por cuanto esto hiciste, maldita serßs entre todas las bestias y entre todos los animales del campo; sobre tu pecho andarßs, y polvo comerßs todos los dÝas de tu vida."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 170,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 15,
+            "text": "Y pondrÚ enemistad entre ti y la mujer, y entre tu simiente y la simiente suya; Ústa te herirß en la cabeza, y tu le herirßs en el calca±ar."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 171,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 16,
+            "text": "A la mujer dijo: MultiplicarÚ en gran manera los dolores en tus pre±eces; con dolor; darßs a luz los hijos; y tu deseo serß para tu marido, y Úl se ense±orearß de ti."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 172,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 17,
+            "text": "Y al hombre dijo: Por cuanto obedeciste a la voz de tu mujer, y comiste del  ßrbol de que te mandÚ diciendo: No comerßs de Úl; maldita serß la tierra por tu causa; con dolor comerßs de ella todos los dÝas de tu vida."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 173,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 18,
+            "text": "Espinos y cardos te producirß, y comerßs plantas del campo."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 174,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 19,
+            "text": "Con el sudor de tu rostro comerßs el pan hasta que vuelvas a la tierra, por que de ella fuiste tomado; pues polvo eres, y al polvo volverßs."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 175,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 20,
+            "text": "Y llam¾ Adßn el nombre de su mujer , Eva, por cuanto ella era madre de todos los vivientes."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 176,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 21,
+            "text": "Y Jehovß Dios hizo al hombre y a su mujer t·nicas de pieles, y los visti¾."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 177,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 22,
+            "text": "Y dijo Jehovß Dios: He aquÝ el hombre es como uno de nosotros, sabiendo el bien y el mal; ahora, pues, que no alargue su mano, y tome tambiÚn del ßrbol de la vida, y coma, y viva para siempre."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 178,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 23,
+            "text": "Y sac¾ Jehovß del huerto del EdÚn, para que labrase la tierra de que fue tomado."
+        }
+    },
+    {
+        "model": "bookdata.reference",
+        "pk": 179,
+        "fields": {
+            "book": 1,
+            "chapter": 3,
+            "verse": 24,
+            "text": "Echo, pues, fuera al hombre, y puso al oriente del huerto de EdÚn querubines, y una espada encendida que se revolvÝa por todos lados, para guardar el camino del ßrbol de la vida."
+        }
+    },
+    {
         "model":"bookdata.Reference",
-        "pk": 200,
+        "pk": 180,
         "fields":{
             "book":1,
             "chapter":4,
@@ -11,7 +801,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 201,
+        "pk": 181,
         "fields":{
             "book":1,
             "chapter":4,
@@ -21,7 +811,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 202,
+        "pk": 182,
         "fields":{
             "book":1,
             "chapter":4,
@@ -31,7 +821,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 203,
+        "pk": 183,
         "fields":{
             "book":1,
             "chapter":4,
@@ -41,7 +831,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 204,
+        "pk": 184,
         "fields":{
             "book":1,
             "chapter":4,
@@ -51,7 +841,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 205,
+        "pk": 185,
         "fields":{
             "book":1,
             "chapter":4,
@@ -61,7 +851,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 206,
+        "pk": 186,
         "fields":{
             "book":1,
             "chapter":4,
@@ -71,7 +861,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 207,
+        "pk": 187,
         "fields":{
             "book":1,
             "chapter":4,
@@ -81,7 +871,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 208,
+        "pk": 188,
         "fields":{
             "book":1,
             "chapter":4,
@@ -91,7 +881,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 209,
+        "pk": 189,
         "fields":{
             "book":1,
             "chapter":4,
@@ -101,7 +891,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 210,
+        "pk": 190,
         "fields":{
             "book":1,
             "chapter":4,
@@ -111,7 +901,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 211,
+        "pk": 191,
         "fields":{
             "book":1,
             "chapter":4,
@@ -121,7 +911,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 212,
+        "pk": 192,
         "fields":{
             "book":1,
             "chapter":4,
@@ -131,7 +921,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 213,
+        "pk": 193,
         "fields":{
             "book":1,
             "chapter":4,
@@ -141,7 +931,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 214,
+        "pk": 194,
         "fields":{
             "book":1,
             "chapter":4,
@@ -151,7 +941,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 215,
+        "pk": 195,
         "fields":{
             "book":1,
             "chapter":4,
@@ -161,7 +951,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 216,
+        "pk": 196,
         "fields":{
             "book":1,
             "chapter":5,
@@ -171,7 +961,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 217,
+        "pk": 197,
         "fields":{
             "book":1,
             "chapter":5,
@@ -181,7 +971,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 218,
+        "pk": 198,
         "fields":{
             "book":1,
             "chapter":5,
@@ -191,7 +981,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 219,
+        "pk": 199,
         "fields":{
             "book":1,
             "chapter":5,
@@ -201,7 +991,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 220,
+        "pk": 200,
         "fields":{
             "book":1,
             "chapter":5,
@@ -211,7 +1001,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 221,
+        "pk": 201,
         "fields":{
             "book":1,
             "chapter":5,
@@ -221,7 +1011,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 222,
+        "pk": 202,
         "fields":{
             "book":1,
             "chapter":5,
@@ -231,7 +1021,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 223,
+        "pk": 203,
         "fields":{
             "book":1,
             "chapter":5,
@@ -241,7 +1031,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 224,
+        "pk": 204,
         "fields":{
             "book":1,
             "chapter":5,
@@ -251,7 +1041,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 225,
+        "pk": 205,
         "fields":{
             "book":1,
             "chapter":5,
@@ -261,7 +1051,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 226,
+        "pk": 206,
         "fields":{
             "book":1,
             "chapter":5,
@@ -271,7 +1061,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 227,
+        "pk": 207,
         "fields":{
             "book":1,
             "chapter":5,
@@ -281,7 +1071,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 228,
+        "pk": 208,
         "fields":{
             "book":1,
             "chapter":5,
@@ -291,7 +1081,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 228,
+        "pk": 208,
         "fields":{
             "book":1,
             "chapter":5,
@@ -301,7 +1091,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 229,
+        "pk": 209,
         "fields":{
             "book":1,
             "chapter":5,
@@ -311,7 +1101,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 230,
+        "pk": 210,
         "fields":{
             "book":1,
             "chapter":5,
@@ -321,7 +1111,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 231,
+        "pk": 211,
         "fields":{
             "book":1,
             "chapter":5,
@@ -331,7 +1121,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 232,
+        "pk": 212,
         "fields":{
             "book":1,
             "chapter":5,
@@ -341,7 +1131,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 233,
+        "pk": 213,
         "fields":{
             "book":1,
             "chapter":5,
@@ -351,7 +1141,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 234,
+        "pk": 214,
         "fields":{
             "book":1,
             "chapter":5,
@@ -361,7 +1151,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 235,
+        "pk": 215,
         "fields":{
             "book":1,
             "chapter":5,
@@ -371,7 +1161,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 236,
+        "pk": 216,
         "fields":{
             "book":1,
             "chapter":5,
@@ -381,7 +1171,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 237,
+        "pk": 217,
         "fields":{
             "book":1,
             "chapter":5,
@@ -391,7 +1181,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 238,
+        "pk": 218,
         "fields":{
             "book":1,
             "chapter":5,
@@ -401,7 +1191,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 239,
+        "pk": 219,
         "fields":{
             "book":1,
             "chapter":5,
@@ -411,7 +1201,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 240,
+        "pk": 210,
         "fields":{
             "book":1,
             "chapter":5,
@@ -421,7 +1211,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 241,
+        "pk": 211,
         "fields":{
             "book":1,
             "chapter":5,
@@ -431,7 +1221,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 242,
+        "pk": 212,
         "fields":{
             "book":1,
             "chapter":5,
@@ -441,7 +1231,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 243,
+        "pk": 213,
         "fields":{
             "book":1,
             "chapter":5,
@@ -451,7 +1241,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 244,
+        "pk": 214,
         "fields":{
             "book":1,
             "chapter":5,
@@ -461,7 +1251,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 245,
+        "pk": 215,
         "fields":{
             "book":1,
             "chapter":5,
@@ -471,7 +1261,7 @@
     },
     {
         "model":"bookdata.Reference",
-        "pk": 246,
+        "pk": 216,
         "fields":{
             "book":1,
             "chapter":5,

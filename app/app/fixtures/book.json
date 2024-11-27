@@ -1,6 +1,369 @@
 [
     {
         "model":"bookdata.Book",
+        "pk": 1,
+        "fields":{
+            "name":"genesis",
+            "short_name":"gn",
+            "category":"Antiguo Testamento",
+            "description":"Este libro de 'los comienzos', hace una narración de la creación, la relación de Dios con el hombre y la promesa de Dios a Abraham y a sus descendientes.",
+            "slug":"genesis"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 2,
+        "fields": {
+            "name": "exodo",
+            "short_name": "ex",
+            "category": "Antiguo Testamento",
+            "description": "El nombre ╔xodo quiere decir \"salida\". Este libro cuenta c¾mo Dios liber¾ a los israelitas de una vida de penurias y esclavitud en Egipto. Dios hizo pacto con ellos y les dio leyes para ordenar y gobernar sus vidas.",
+            "slug": "exodo"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 3,
+        "fields": {
+            "name": "levÝtico",
+            "short_name": "lv",
+            "category": "Antiguo Testamento",
+            "description": "El nombre del libro se deriva de una de las doce tribus de Israel. El libro promulga todas las leyes y reglamentaciones concernientes a rituales y ceremonias.",
+            "slug": "levitico"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 4,
+        "fields": {
+            "name": "numeros",
+            "short_name": "nm",
+            "category": "Antiguo Testamento",
+            "description": "Los israelitas vagaron por el desierto cuarenta a±os antes de entrar a Canaßn \"la tierra prometida\". El nombre del libro se deriva de los dos censos levantados durante ese tiempo en el desierto.",
+            "slug": "numeros"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 5,
+        "fields": {
+            "name": "deuteronomio",
+            "short_name": "dt",
+            "category": "Antiguo Testamento",
+            "description": "MoisÚs pronuncio tres discurso de despedida poco antes de morir. En ellos repas¾ con el pueblo todas las leyes de Dios para los israelitas. El nombre del libro viene de ese \"repaso\" o \"segunda ley\".",
+            "slug": "deuteronomio"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 6,
+        "fields": {
+            "name": "josue",
+            "short_name": "jos",
+            "category": "Antiguo Testamento",
+            "description": "JosuÚ fue el lÝder de los ejÚrcitos de los israelitas en sus victorias sobre sus enemigos los canaanitas. El libro termina con la repartici¾n de la tierra entre las doce tribus de Israel.",
+            "slug": "josue"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 7,
+        "fields": {
+            "name": "jueces",
+            "short_name": "jue",
+            "category": "Antiguo Testamento",
+            "description": "Los israelitas a menudo desobedecÝan a Dios y caÝan en manos de paÝses opresores. Dios envi¾ jueces para librarlos de la opresi¾n",
+            "slug": "jueces"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 8,
+        "fields": {
+            "name": "rut",
+            "short_name": "rt",
+            "category": "Antiguo Testamento",
+            "description": "El amor y la dedicaci¾n en Rut a su suegra, NoemÝ, son el tema de este libro.",
+            "slug": "rut"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 9,
+        "fields": {
+            "name": "1 samuel",
+            "short_name": "1 s",
+            "category": "Antiguo Testamento",
+            "description": "Samuel fue un lÝder de israel en el perÝodo comprendido entre los jueces y Sa·l, el primer rey de Israel. Cuando el liderazgo de Saul fall¾, Samuel ungi¾ a David como rey.",
+            "slug": "1-samuel"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 10,
+        "fields": {
+            "name": "2 samuel",
+            "short_name": "2 s",
+            "category": "Antiguo Testamento",
+            "description": "Bajo el reinado de David la naci¾n se unifico y se hizo fuerte, pero despuÚs de los pecados de David, adulterio y asesinato, sufriÚron mucho tanto la familia como la naci¾n.",
+            "slug": "2-samuel"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 11,
+        "fields": {
+            "name": "1 reyes",
+            "short_name": "1 r",
+            "category": "Antiguo Testamento",
+            "description": "Este libro comienza con el reinado de Salom¾n en Israel. DespuÚs de su muerte, el reino se dividi¾ a consecuencia de la guerra civil entre el norte y el sur, dando como resultado el nacimiento de dos naciones: Israel en el norte y Judß en el sur.",
+            "slug": "1-reyes"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 12,
+        "fields": {
+            "name": "2 reyes",
+            "short_name": "2 r",
+            "category": "Antiguo Testamento",
+            "description": "Israel fue conquistada por Asiria en el 712 A.C. Juda por Babilonia en el 586 A.C. Estos eventos se consideran como castigo al pueblo por desobedecer las leyes de Dios.",
+            "slug": "2-reyes"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 13,
+        "fields": {
+            "name": "1 cronicas",
+            "short_name": "1 cr",
+            "category": "Antiguo Testamento",
+            "description": "Este libro comienza con las genealogÝas de Adßn hasta David, y luego repite los incidentes del reinado de David.",
+            "slug": "1-cronicas"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 14,
+        "fields": {
+            "name": "2 cronicas",
+            "short_name": "2 cr",
+            "category": "Antiguo Testamento",
+            "description": "Este libro cubre el mismo que 2 reyes pero con Únfasis en Judß, el reino del sur, y sus gobernantes.",
+            "slug": "2-cronicas"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 15,
+        "fields": {
+            "name": "esdras",
+            "short_name": "esd",
+            "category": "Antiguo Testamento",
+            "description": "DespuÚs de estar cautivo en Babilonia por algunas dÚcadas, el pueblo de Dios retorna a JerusalÚn. Uno de sus lideres era Esdras. Este libro contiene el reto que Esdras le hizo al pueblo a seguir y honrar la ley de Dios.",
+            "slug": "esdras"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 16,
+        "fields": {
+            "name": "nehemias",
+            "short_name": "neh",
+            "category": "Antiguo Testamento",
+            "description": "DespuÚs que el templo fue reconstruido, tambiÚn lo fue la muralla de JerusalÚn. Nehemias fue quien dirigi¾ la empresa. TambiÚn trabajo con Esdras para restaurar el fervor religioso entre el pueblo.",
+            "slug": "nehemias"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 17,
+        "fields": {
+            "name": "ester",
+            "short_name": "est",
+            "category": "Antiguo Testamento",
+            "description": "Este libro relata la historia de una reina judÝa de PersÝa, que expuso un complot para destruir a sus compatriotas y asÝ los libr¾ a todos de ser aniquilados.",
+            "slug": "ester"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 18,
+        "fields": {
+            "name": "job",
+            "short_name": "job",
+            "category": "Antiguo Testamento",
+            "description": "La pregunta: ┐Por que sufren los inocentes? es tratada en esta historia bÝblica.",
+            "slug": "job"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 19,
+        "fields": {
+            "name": "salmos",
+            "short_name": "sal",
+            "category": "Antiguo Testamento",
+            "description": "Estas 150 oraciones e himnos fueron usadas por los hebreos para expresar su relaci¾n con Dios. Cubren todo el campo de las emociones humanas: desde la alegrÝa hasta la furia, de la esperanza hasta la desesperaci¾n.",
+            "slug": "salmos"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 20,
+        "fields": {
+            "name": "proverbios",
+            "short_name": "pr",
+            "category": "Antiguo Testamento",
+            "description": "Este es un libro de dichos sabios, de ense±anzas Úticas y de sentido com·n acerca de c¾mo vivir una vida recta.",
+            "slug": "proverbios"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 21,
+        "fields": {
+            "name": "eclesiastes",
+            "short_name": "ec",
+            "category": "Antiguo Testamento",
+            "description": "En su b·squeda de la felicidad y del sentido de la vida, este escritor, conocido como \"el filosofo\", hace preguntas que a·n estßn vigentes en la sociedad hoy.",
+            "slug": "eclesiastes"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 22,
+        "fields": {
+            "name": "cantar de cantares",
+            "short_name": "cnt",
+            "category": "Antiguo Testamento",
+            "description": "Este poema describe el gozo y el Úxtasis del amor. Simb¾licamente, ha sido aplicado al amor de Dios por Israel y el amor de Cristo por la Iglesia.",
+            "slug": "cantar-de-cantares"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 23,
+        "fields": {
+            "name": "Isaias",
+            "short_name": "is",
+            "category": "Antiguo Testamento",
+            "description": "El profeta IsaÝas trajo el mensaje del juicio de Dios a las naciones, se±alo a un futuro rey, como David, y prometi¾ una era de paz y tranquilidad.",
+            "slug": "isaias"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 24,
+        "fields": {
+            "name": "jeremias",
+            "short_name": "jer",
+            "category": "Antiguo Testamento",
+            "description": "Mucho antes de que Babilonia destruyera a Judß, Jeremias predijo el justo juicio de Dios. Aunque su mensaje era mayormente acerca de la destrucci¾n, tambiÚn habl¾ del nuevo pacto con Dios.",
+            "slug": "jeremias"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 25,
+        "fields": {
+            "name": "lamentaciones",
+            "short_name": "lm",
+            "category": "Antiguo Testamento",
+            "description": "Tal y como JeremÝas habÝa predicho, Jerusalem cay¾ cautiva de Babilonia. Este libro registra cinco \"lamentos\" por la ciudad caÝda.",
+            "slug": "lamentaciones"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 26,
+        "fields": {
+            "name": "ezequiel",
+            "short_name": "ez",
+            "category": "Antiguo Testamento",
+            "description": "El mensaje de Ezequiel fue dado a los judÝos cautivos en Babilonia. Ezequiel us¾ historias y parßbolas para hablar del juicio, la esperanza y la restauraci¾n de Israel.",
+            "slug": "ezequiel"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 27,
+        "fields": {
+            "name": "daniel",
+            "short_name": "dn",
+            "category": "Antiguo Testamento",
+            "description": "Daniel se mantuvo fiel a Dios a·n enfrentado muchas persecuciones estando cautivo en Babilonia. Este libro incluye las visiones profÚticas de Daniel.",
+            "slug": "daniel"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 28,
+        "fields": {
+            "name": "oseas",
+            "short_name": "os",
+            "category": "Antiguo Testamento",
+            "description": "Oseas us¾ la lecci¾n de su dedicaci¾n a su esposa, a·n enfrentando su infidelidad, para ilustrar el adulterio que Israel habÝa cometido contra Dios, y c¾mo el amor fiel de Dios por su pueblo nunca cambia.",
+            "slug": "oseas"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 29,
+        "fields": {
+            "name": "joel",
+            "short_name": "jl",
+            "category": "Antiguo Testamento",
+            "description": "DespuÚs de una plaga de langostas, Joel amonesta al pueblo para que se arrepienta.",
+            "slug": "joel"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 30,
+        "fields": {
+            "name": "amos",
+            "short_name": "am",
+            "category": "Antiguo Testamento",
+            "description": "Durante un tiempo de prosperidad, este profeta de Judea predico a los ricos lideres de  Israel acerca del juicio de Dios, insistÝan en que pensaran en los pobres y oprimidos antes que su propia satisfacci¾n.",
+            "slug": "amos"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 31,
+        "fields": {
+            "name": "abdias",
+            "short_name": "abd",
+            "category": "Antiguo Testamento",
+            "description": "AbdÝas profetizo el juicio a Edom, un paÝs vecino a Israel.",
+            "slug": "abdias"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 32,
+        "fields": {
+            "name": "jonas",
+            "short_name": "jon",
+            "category": "Antiguo Testamento",
+            "description": "Jonßs no queria predicar a la gente del NÝnive, que era enemiga de su propio paÝs. Cuando finalmente llev¾ el mensaje enviado por Dios, sus habitantes se arrepintieron.",
+            "slug": "jonas"
+        }
+    },
+    {
+        "model": "bookdata.book",
+        "pk": 33,
+        "fields": {
+            "name": "miqueas",
+            "short_name": "mi",
+            "category": "Antiguo Testamento",
+            "description": "El mensaje de Miqueas a J·da era de juicio, a la vez que de perd¾n, esperanza y restauraci¾n. Especialmente notable es un versÝculo en el que resume lo que Dios requiere de nosotros.",
+            "slug": "miqueas"
+        }
+    },
+    {
+        "model":"bookdata.Book",
         "pk": 34,
         "fields":{
             "name":"nahum",
@@ -91,11 +454,11 @@
         "model":"bookdata.Book",
         "pk": 42,
         "fields":{
-            "name":"",
-            "short_name":"",
+            "name":"lucas",
+            "short_name":"lc",
             "category":"Nuevo Testamento",
-            "description":"",
-            "slug":""
+            "description":"En este Evangelio se enfatiza cuán al alcance de todos está la salvación de Jesús. El evangelista lo hace describiendo a Jesús en contacto con la gente pobre, con los necesitados y con los que viven rechazados por la sociedad.",
+            "slug":"lucas"
         }
     },
 
