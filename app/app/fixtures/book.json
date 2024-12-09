@@ -461,5 +461,269 @@
             "slug":"lucas"
         }
     },
+    {
+        "model":"bookdata.Book",
+        "pk": 43,
+        "fields":{
+            "name":"san juan",
+            "short_name":"jn",
+            "category":"Nuevo Testamento",
+            "description":"El Evangelio de San Juan, por su forma, se coloca aparte de los otros tres. San Juan organiza el mensaje enfocandolo en siete señales que apuntan a Jesús como Hijo de Dios. Su estilo literario es reflexivo y lleno de imágenes y figuras.",
+            "slug":"san-juan"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 44,
+        "fields":{
+            "name":"hechos",
+            "short_name":"hch",
+            "category":"Nuevo Testamento",
+            "description":"Cuando Jesús se ausento de sus discipulos, el Espíritu Santo vino a morar en ellos. Este libro fue escrito por San Lucas como complemento a su Evangelio y relata eventos clave en la historia y trabajo de la iglesia cristiana primitiva y cómo se propagó la fe en el mundo Mediterraneo de entonces.",
+            "slug":"hechos-de-los-apostoles"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 45,
+        "fields":{
+            "name":"romanos",
+            "short_name":"ro",
+            "category":"Nuevo Testamento",
+            "description":"En esta importante carta, San Pablo escribe a los romanos acerca de la vida en el Espíritu, que es dada por la fe, a los creyentes en Cristo. El apostol les reitera la gran bondad de Dios y les declara que a través de Jesucristo, Dios nos acepta y nos libera de nuestro pecados.",
+            "slug":"romanos"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 46,
+        "fields":{
+            "name":"1 corintios",
+            "short_name":"1 co",
+            "category":"Nuevo Testamento",
+            "description":"Esta carta trata especificamente con las problemas que estaba enfrentando la iglesia de Corinto.",
+            "slug":"1-corintios"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 47,
+        "fields":{
+            "name":"2 corintios",
+            "short_name":"2 co",
+            "category":"Nuevo Testamento",
+            "description":"En esta carta San Pablo escribe sobre su relación con la iglesia de Corinto y los efectos que algunos falsos profetas habían producido en su ministerio.",
+            "slug":"2-corintios"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 48,
+        "fields":{
+            "name":"galatas",
+            "short_name":"ga",
+            "category":"Nuevo Testamento",
+            "description":"Esta carta expone la libertad del creyente en Cristo, con respecto a la ley. Pablo declara que es solo por la fe como todos los creyentes son reconciliados con Dios.",
+            "slug":"galatas"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 49,
+        "fields":{
+            "name":"efesios",
+            "short_name":"ef",
+            "category":"Nuevo Testamento",
+            "description":"El tema central de esta carta es el proposito eterno de Dios: juntar de muchas naciones y razas a la iglesia universal de Jesucristo.",
+            "slug":"efesios"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 50,
+        "fields":{
+            "name":"filipenses",
+            "short_name":"fil",
+            "category":"Nuevo Testamento",
+            "description":"El enfasis de esta carta es sobre el gozo que el creyente en Cristo encuentra en todas las circustancias de la vida. San Pablo la escribió estando en la carcel.",
+            "slug":"filipenses"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 51,
+        "fields":{
+            "name":"colosenses",
+            "short_name":"col",
+            "category":"Nuevo Testamento",
+            "description":"En esta carta San Pablo le dice a los creyentes de Colosas que haga aun lado sus supersticiones y que pongan a Cristo en el centrode sus vidas.",
+            "slug":"colosenses"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 52,
+        "fields":{
+            "name":"1 tesalonicenses",
+            "short_name":"1 ts",
+            "category":"Nuevo Testamento",
+            "description":"San Pablo da concejos a los cristianos de Tesalonica, en cuanto al regreso de Jesús al mundo.",
+            "slug":"1-tesalonicenses"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 53,
+        "fields":{
+            "name":"2 tesalonicenses",
+            "short_name":"2 ts",
+            "category":"Nuevo Testamento",
+            "description":"Como en su primera carta, San Pablo habla del retorno de Jesús al mundo. También trata de preparar a los creyentes para la venida del Señor.",
+            "slug":"2-tesalonicenses"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 54,
+        "fields":{
+            "name":"1 timoteo",
+            "short_name":"1 ti",
+            "category":"Nuevo Testamento",
+            "description":"Esta carta le sirve de guía a Timoteo, un joven lider de la iglesia primitiva. San Pablo le da consejos sobre la adoración, el ministerio y las relaciones dentro de la iglesia.",
+            "slug":"1-timoteo"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 55,
+        "fields":{
+            "name":"2 timoteo",
+            "short_name":"2 ti",
+            "category":"Nuevo Testamento",
+            "description":"Es ésta la última carta escrita por San Pablo. En ella lanza un último reto a sus compañeros de trabajo.",
+            "slug":"2-timoteo"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 56,
+        "fields":{
+            "name":"tito",
+            "short_name":"tit",
+            "category":"Nuevo Testamento",
+            "description":"Tito estaba ministrando en Creta. En esta carta San Pablo le aconseja cómo ayudar a los nuevos cristianos.",
+            "slug":"tit"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 57,
+        "fields":{
+            "name":"filemon",
+            "short_name":"flm",
+            "category":"Nuevo Testamento",
+            "description":"Filemon es instado a perdonar a su esclavo, Onésimo, quien había tratado de escaparse; también a aceptarlo como un amigo en Cristo.",
+            "slug":"filemon"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 58,
+        "fields":{
+            "name":"hebreos",
+            "short_name":"he",
+            "category":"Nuevo Testamento",
+            "description":"Esta carta exhorta a los nuevos cristianos a ir más allá de los rituales y ceremonias tradicionales  y a darse cuenta de que en Cristo todos han encontrado su cunplimiento.",
+            "slug":"hebreos"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 59,
+        "fields":{
+            "name":"santiago",
+            "short_name":"stg",
+            "category":"Nuevo Testamento",
+            "description":"Santiago aconseja a los creyentes a poner en practica sus creencias y ademas ofrece ideas practicas de como vivir su fe.",
+            "slug":"santiago"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 60,
+        "fields":{
+            "name":"1 pedro",
+            "short_name":"1 p",
+            "category":"Nuevo Testamento",
+            "description":"Esta carta fue escrita para confortar a los primeros cristianos que estaban siendo perseguidos por causa de su fe.",
+            "slug":"1-pedro"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 61,
+        "fields":{
+            "name":"2 pedro",
+            "short_name":"2 p",
+            "category":"Nuevo Testamento",
+            "description":"En esta carta San Pedro advierte a los creyentes sobre los falsos maestros y los estimula a seguir leales a Dios.",
+            "slug":"2-pedro"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 62,
+        "fields":{
+            "name":"1 juan",
+            "short_name":"1 jn",
+            "category":"Nuevo Testamento",
+            "description":"Esta carta explica verdades basicas acerca de la vida cristiana con enfasis en el mandato de amarse unos a otros.",
+            "slug":"1-juan"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 63,
+        "fields":{
+            "name":"2 juan",
+            "short_name":"2 jn",
+            "category":"Nuevo Testamento",
+            "description":"Esta carta, dirigida a 'la señora escogida y a sus hijos' advierte a los creyentes sobre los falsos maestros.",
+            "slug":"2-juan"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 64,
+        "fields":{
+            "name":"3 juan",
+            "short_name":"3 jn",
+            "category":"Nuevo Testamento",
+            "description":"En contraste con su segunda carta, esta habla de la necesidad de recibir a aquellos que predican a Cristo.",
+            "slug":"3-juan"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 65,
+        "fields":{
+            "name":"judas",
+            "short_name":"jud",
+            "category":"Nuevo Testamento",
+            "description":"Judas advierte a los creyentes sobre la mala influencia de personas ajenas a la hermandad de los cristianos.",
+            "slug":"judas"
+        }
+    },
+    {
+        "model":"bookdata.Book",
+        "pk": 66,
+        "fields":{
+            "name":"apocalipsis",
+            "short_name":"ap",
+            "category":"Nuevo Testamento",
+            "description":"Este libro fue escrito para alentar a los creyentes que estaban siendo perseguidos y para afirmar su fe en que Dios cuidará de ellos. Usando símbolos y visiones, el escritor ilustra el triunfo de una tierra nueva y un nuevo cielo.",
+            "slug":"apocalipsis"
+        }
+    }
 
 ]
