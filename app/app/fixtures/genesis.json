@@ -1268,7 +1268,3824 @@
             "verse":32,
             "text": "Y siendo Noé de quinientos años, engendró a Sem, a Can y a Jafet."
         }
-    }
+    },
     
+
+    {
+        "model":"bookdata.Reference",
+        "pk": 217,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":1,
+          "text": "aconteció que cuando comenzaron los hombres a multiplicarse sobre la faz de la Tierra y les nacieron hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 218,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":2,
+          "text": "que viendo los hijos de Dios que las hijas de los hombres eran hermosas tomaron para si mujeres escogiendo entre todas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 219,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":3,
+          "text": "y dijo Jehová no contenderá mi espíritu con el hombre para siempre porque ciertamente él es carne más serán sus días 120 años"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 220,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":4,
+          "text": "había gigantes en la tierra en aquellos días y también después que se llegaron los hijos de Dios a las hijas de los hombres y les engendraron hijos estos fueron los valientes que desde la antigüedad fueron varones de renombre"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 221,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":5,
+          "text": "y vio Jehová que la maldad de los hombres era mucha en la tierra y que todo designio de los pensamientos del corazón de ellos era de continuo solamente el mal"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 222,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":6,
+          "text": "y se arrepintió Jehová de haber hecho hombre en la tierra y le dolió en su corazón"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 223,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":7,
+          "text": "y dijo Jehová traeré de sobre la faz de la tierra a los hombres que he creado desde el hombre hasta la Bestia y hasta el reptil y las aves del cielo Pues me arrepiento de haberlos hecho"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 224,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":8,
+          "text": "pero Noé halló gracia ante los ojos de Jehová"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 225,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":9,
+          "text": "Estas son las generaciones de Noé, varón justo era perfecto en sus generaciones con Dios Caminó Noé"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 226,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":10,
+          "text": "y engendró Noé, tres hijos Set, Cam y Jafet"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 227,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":11,
+          "text": "y se corrompió la tierra delante de Dios y estaba la tierra llena de violencia"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 228,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":12,
+          "text": "y miró Dios la tierra y he aquí que estaba corrompida porque toda carne había corrompido su Camino sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 229,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":13,
+          "text": "dijo pues Dios a Noé He decidido el fin de todo ser porque la tierra está llena de violencia a causa de ellos y he aquí que yo lo destruiré con la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 230,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":14,
+          "text": "Hazte un arca de madera de gofer harás aposentos en el arca y la calafatearás con Brea por dentro y por fuera"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 231,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":15,
+          "text": "y de esta manera la harás de 300 codos la longitud del Arca de 50 codos su anchura y de 30 codos su altura"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 232,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":16,
+          "text": "una ventana harás al arca y la acabarás a un codo de elevación por la parte de arriba y pondrás la puerta del arca a su lado y le harás piso bajo segundo y tercero"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 233,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":17,
+          "text": "Y he aquí que yo traigo un diluvio de agua sobre la tierra para destruir toda carne en que haya espíritu de vida debajo del cielo todo lo que hay en la Tierra morirá"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 234,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":18,
+          "text": "más estableceré mi pacto contigo y entrarás en el arca tú Tus hijos tus tu mujer y las mujeres de tus hijos contigo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 235,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":19,
+          "text": "y de todo lo que vive de toda carne Dos de cada especie meterás en el arca para que tengas vida contigo macho y hembra será"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 236,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":20,
+          "text": "de las aves según su especie y de las bestias según su especie de todo reptil de la tierra según su especie Dos de cada especie entrarán contigo para que tengan vida"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 237,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":21,
+          "text": "y toma contigo de todo alimento que se come y almacénalo y servirá de sustento para ti y para ellos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 238,
+        "fields":{
+          "book":1,
+          "chapter":6,
+          "verse":22,
+          "text": "y lo hizo así Noé hizo conforme a todo lo que Dios le mandó"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 239,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":1,
+          "text": "dijo luego Jehová a Noé entra tú y toda tu casa en el arca porque a ti he visto justo delante de mí en Esta generación"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 240,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":2,
+          "text": "de todo animal limpio tomarás siete parejas macho y su hembra más de los animales que no son limpios una pareja el macho y su hembra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 241,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":3,
+          "text": "también de las aves de los cielos siete parejas macho y hembra para conservar viva la especie sobre la faz de la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 242,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":4,
+          "text": "Porque pasados a un 7 días Yo haré llover sobre la Tierra 40 días y 40 noches Israel de sobre la faz de la tierra a todo ser viviente que hice"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 243,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":5,
+          "text": "e hizo Noé conforme todo lo que le mandó Jehová"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 244,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":6,
+          "text": "era Noé de 600 años cuando el diluvio de las aguas vino sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 245,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":7,
+          "text": "y por causa de las aguas del diluvio entró Noé al arca y con él sus hijos su mujer y las mujeres de sus hijos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 246,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":8,
+          "text": "de los animales limpios y de los animales que no eran limpios y de las aves y de todo lo que arrastra sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 247,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":9,
+          "text": "de dos en dos entraron con Noé en el arca macho y hembra en como mandó Dios A Noel"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 248,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":10,
+          "text": "y sucedió que al séptimo día las aguas del diluvio vinieron sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 249,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":11,
+          "text": "el año 600 de la vida de Noé en el mes segundo a los 17 días del mes aquel día fueron rotas todas las fuentes del grande Abismo y las cataratas de los cielos fueron abiertas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 250,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":12,
+          "text": "y hubo lluvia sobre la Tierra 40 días y 40 noches"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 251,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":13,
+          "text": "en este mismo día entraron Noé Vicente y Jafet hijos de Noé la mujer de Noé y las tres mujeres de sus hijos con él en el arca"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 252,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":14,
+          "text": "ellos y todos los animales silvestres según su especie y todos los animales domesticados según su especie y todo reptil que se arrastra sobre la Tierra según su especie y toda ave según su especie y todo pájaro de toda especie"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 253,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":15,
+          "text": "vinieron Pues con Noé al arca de dos en dos de toda carne en que había espíritu de vida"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 254,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":16,
+          "text": "y los que vinieron macho y hembra de toda carne vinieron como le había mandado a Dios y Jehová le cerró la puerta"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 255,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":17,
+          "text": "y fue el diluvio 40 días sobre la Tierra y las aguas crecieron y alzaron el arca y se elevó sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 256,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":18,
+          "text": "y subieron las aguas y crecieron en gran manera sobre la Tierra y fLótaba el arca sobre la superficie de las aguas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 257,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":19,
+          "text": "y las aguas subieron mucho sobre la Tierra y todos los montes altos que había debajo de todos los cielos fueron cubiertos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 258,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":20,
+          "text": "15 codos más alto subieron las aguas después que fueron cubiertos los montes"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 259,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":21,
+          "text": "y murió toda carne que se mueve sobre la Tierra así de aves como de ganado y de bestias y de todo reptil que se arrastra sobre la Tierra y todo hombre"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 260,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":22,
+          "text": "todo lo que tenía aliento de espíritu de vida en sus narices todo lo que había en la tierra murió"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 261,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":23,
+          "text": "así fue destruido todo ser que vivía sobre la faz de la Tierra desde el hombre hasta la bestia los reptiles y las aves del cielo y fueron reídos de la tierra y quedó solamente Noé y los que con él estaban en el arca"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 262,
+        "fields":{
+          "book":1,
+          "chapter":7,
+          "verse":24,
+          "text": "y prevalecieron las aguas sobre la Tierra 150 días"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 263,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":1,
+          "text": "y se acordó Dios de Noé Y de todos los animales y de todas las bestias que estaban con él en el arca e hizo pasar Dios un viento sobre la Tierra y disminuyeron las aguas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 264,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":2,
+          "text": "y Se cerraron las fuentes del Abismo y las cataratas de los cielos y la lluvia de los cielos fue detenida"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 265,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":3,
+          "text": "y las aguas decrecían gradualmente de sobre la Tierra y se retiraron las aguas al cabo de 150 días"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 266,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":4,
+          "text": "y reposó el arca en el mes séptimo a los 17 días del mes sobre los montes de Ararat."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 267,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":5,
+          "text": "y las aguas fueron decreciendo hasta el décimo en el décimo al primero del mes se descubrieron las cimas de los montes"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 268,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":6,
+          "text": "sucedió que al cabo de 40 días abrió Noé la ventana del arca que había hecho"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 269,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":7,
+          "text": "y envió un cuervo el cual salió y estuvo yendo y volviendo hasta que las aguas se secaron sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 270,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":8,
+          "text": "envió también de Sí una paloma para ver si las aguas se habían retirado de sobre la faz de la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 271,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":9,
+          "text": "y no halló la paloma donde sentar la planta de su pie y volvió a él al arca porque las aguas estaban aún sobre la faz de la tierra Entonces él extendió su mano y tomándola la hizo entrar consigo en el arca"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 272,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":10,
+          "text": "espero a uno otros siete días y volvió a enviar la paloma fuera del arca"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 273,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":11,
+          "text": "y la paloma volvió a él a la hora de la tarde Y he aquí que traía una hoja de olivo en el pico y entendió Noé que las aguas se habían retirado de sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 274,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":12,
+          "text": "y espero a un otro 7 días y envío la paloma la cual no volvió llamas a él"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 275,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":13,
+          "text": "y sucedió que en el año 601 de Noé en el mes primero el día primero del mes las aguas se secaron sobre la Tierra y quitó Noé en la cubierta del arca y miró Y he aquí que la faz de la tierra estaba seca"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 276,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":14,
+          "text": "y en el mes segundo a los 27 días del mes se secó la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 277,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":15,
+          "text": "entonces habló Dios a Noé diciendo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 278,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":16,
+          "text": "sal del arca tú y tu mujer y tus hijos y las mujeres de tus hijos contigo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 279,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":17,
+          "text": "todos los animales que están contigo de toda carne de aves y de bestias y de todo reptil que se arrastra sobre la Tierra sacarás contigo y vaya por la tierra y fructifiquen y multiplíquense sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 280,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":18,
+          "text": "entonces salió Noé y sus hijos su mujer y las mujeres de sus hijos con él."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 281,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":19,
+          "text": "todos los animales y todo reptil y toda ave todo lo que se mueve sobre la sierra según su especie salieron del arca"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 282,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":20,
+          "text": "y edificó Noé un altar a Jehová y tomó de todo animal limpio y de toda ave limpia y ofreció holocausto en el altar"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 283,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":21,
+          "text": "y percibió Jehová olor grato y dijo Jehová en su corazón No volveré más a maldecir la tierra por causa del hombre porque él intentó del corazón del hombre es malo desde su juventud ni volveré más a destruir todo ser viviente como he hecho"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 284,
+        "fields":{
+          "book":1,
+          "chapter":8,
+          "verse":22,
+          "text": "mientras la tierra permanezca no cesará la cementera y la ciega el frío y el calor el verano y el invierno y el día y la noche"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 285,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":1,
+          "text": "bendijo Dios a Noé a sus hijos y les dijo fructificad y multiplicaos y llenar la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 286,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":2,
+          "text": "el temor y el miedo de vosotros estará sobre todo animal de la tierra y sobre toda Ave de los Cielos en todo lo que se mueve sobre la tierra y en todos los peces del mar en vuestra mano son entregados"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 287,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":3,
+          "text": "todo lo que se mueve y vive o será para mantenimiento así como las legumbres y las plantas verdes os lo he dado todo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 288,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":4,
+          "text": "pero carne con su vida que es su sangre no comeréis"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 289,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":5,
+          "text": "porque ciertamente demandaré la sangre de vuestras vidas de mano de todo animal la demandaré y de mano del hombre en mano del varón su hermano Te mandaré la vida del hombre"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 290,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":6,
+          "text": "el que derramare sangre de hombre por el hombre su sangre será derramada porque a imagen de Dios es hecho el hombre"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 291,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":7,
+          "text": "más vosotros fructificad y multiplicados procread abundantemente en la tierra y multiplicaos en ella"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 292,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":8,
+          "text": "y habló Dios a Noé y a sus hijos con él diciendo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 293,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":9,
+          "text": "he aquí que yo establezco mi pacto con vosotros y con vuestros descendientes después de vosotros"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 294,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":10,
+          "text": "y con todo ser viviente que está con vosotros aves animales y toda bestia de la tierra que está con vosotros desde todos los que salieron del arca hasta todo animal de la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 295,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":11,
+          "text": "estableceré mi pacto con vosotros y no exterminaré ya más toda carne con aguas del diluvio ni Habrá más diluvio para destruir la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 296,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":12,
+          "text": "y dijo Dios Esta es la señal del pacto que yo establezco entre mí y vosotros y todo ser viviente que está con vosotros por siglos perpetuos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 297,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":13,
+          "text": "mi arco he puesto en las nubes de Cuál será por señal del pacto entre mí y la tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 298,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":14,
+          "text": "y sucederá Que cuando haga venir nubes sobre la Tierra se dejará ver entonces mi arcos mi arco en las nubes"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 299,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":15,
+          "text": "y me acordaré del pacto mío que hay entre mí y vosotros y todo ser viviente de toda carne y no habrá más diluvio de aguas para destruir toda carne"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 300,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":16,
+          "text": "estará el arco en las nubes y lo veré y me acordaré del pacto Perpetuo entre Dios y todo ser viviente con toda carne que hay sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 301,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":17,
+          "text": "dijo pues Dios a Noé Esta es la señal del pacto que he establecido entre mí y toda carne que está sobre la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 302,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":18,
+          "text": "y los hijos de Noé que salieron del arca fueron sem Cam y Jafet y Cam es el padre de Canaan"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 303,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":19,
+          "text": "esos tres son los hijos de Noé y de ellos fue llena toda la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 304,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":20,
+          "text": "después comenzó Noé a labrar la Tierra y plantó una viña"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 305,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":21,
+          "text": "y bebió del vino y se embriagó y estando descubierto en medio de su tienda"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 306,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":22,
+          "text": "y Cam padre de Canaán viola desnudez de su padre y lo dijo a sus dos hermanos que estaban afuera"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 307,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":23,
+          "text": "entonces sem y Jafet tomaron la ropa y la pusieron sobre sus propios hombros y andando hacia atrás cubrieron la desnudez de su padre teniendo vuelto sus rostros así no vieron la desnudez de su padre"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 308,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":24,
+          "text": "y dijo Maldito Sea canal siervo de siervos será a sus hermanos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 309,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":25,
+          "text": "dijo más Bendito por Jehová mi Dios se hacen y sea canal su siervo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 310,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":26,
+          "text": "engrandezca a Dios a Jafet y habite en las tiendas de sen y sea canal su siervo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 311,
+        "fields":{
+          "book":1,
+          "chapter":9,
+          "verse":27,
+          "text": "y vivió Noé después del diluvio 350 años y fueron todos los días de Noé 950 años y murió"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 312,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":1,
+          "text": "Estas son las generaciones de los hijos de Noé sem Cam y Jafet a quienes nacieron hijos después del diluvio"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 313,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":2,
+          "text": "los hijos de Jafet gomer magot madaín jabán Duval mesec y tiras"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 314,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":3,
+          "text": "los hijos de Gómez rifad y togarma"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 315,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":4,
+          "text": "los hijos de jabón Elisa tarsis quitin y danin"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 316,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":5,
+          "text": "de estos se poblaron las costas cada cual según su lengua conforme a sus familias en sus naciones"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 317,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":6,
+          "text": "los hijos de Cam cus misraín Food y Canaán"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 318,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":7,
+          "text": "y los hijos de cus seba Ávila Sata rama y zapteca y los hijos de Rama se va y de Dan"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 319,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":8,
+          "text": "Y Cus engendró a Nimrod, quien llegó a ser el primer poderoso de la tierra."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 320,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":9,
+          "text": "este fue vigoroso cazador delante de Jehová Por lo cual se dice así como nimrod vigoroso cazador delante de Jehová"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 321,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":10,
+          "text": "y fue el comienzo de su reino Babel ereck acab y calme en la tierra de sinar"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 322,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":11,
+          "text": "de esta tierra salió a Siria y edificó nínive robot Cala"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 323,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":12,
+          "text": "y recen entre nínive y cala la cual es ciudad grande"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 324,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":13,
+          "text": "mix rain en que entró a ludin a anahín a leapin a naturín"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 325,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":14,
+          "text": "a Pastrusim, a Casluzim, de donde salieron los filisteos, y a Caftorim."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 326,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":15,
+          "text": "y Canaan engendró Sidón su primogénito a Het."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 327,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":16,
+          "text": "al jebuseo al amorreo alergueseo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 328,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":17,
+          "text": "al hebreo al araceo al sineo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 329,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":18,
+          "text": "al parpadeo al semareo y al amateo y después se dispersaron las familias de los cananeos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 330,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":19,
+          "text": "y fue el territorio de los cananeos desde sidón en dirección a Gerard hasta gaza y en dirección de Sodoma Gomorra atma y cebollín hasta las"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 331,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":20,
+          "text": "estos son los hijos de Karen por sus familias por sus lenguas y sus tierras en sus naciones"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 332,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":21,
+          "text": "también le nacieron hijos hacen padre de todos los hijos de Every y hermano mayor de Jafet"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 333,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":22,
+          "text": "los hijos de zen fueron elam azul y aran"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 334,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":23,
+          "text": "y los hijos de Adán Us Hulk GT y más"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 335,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":24,
+          "text": "para pasar engendró a sala y sala engendró a Ever"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 336,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":25,
+          "text": "y a Ever nacieron dos hijos el nombre del uno fue pelé porque en sus días fue repartida en la tierra y el nombre de su hermano j"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 337,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":26,
+          "text": "y jotan engendró a almodar sale azar Mabel Gera"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 338,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":27,
+          "text": "Adoram, Uzal, Diclan,"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 339,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":28,
+          "text": "Obal, Abimalec, Seba,"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 340,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":29,
+          "text": "Orfir, Havila y Jobab; todos estos fueron los hijos de Joctan."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 341,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":30,
+          "text": "y la tierra en que habitaron fue desde mesa en dirección de cefar hasta la región montañosa del oriente"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 342,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":31,
+          "text": "estos fueron los hijos de zen por sus familias y por sus lenguas en sus tierras en sus naciones"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 343,
+        "fields":{
+          "book":1,
+          "chapter":10,
+          "verse":32,
+          "text": "Estas son las familias de los hijos de Noé por sus descendencias en sus en sus naciones y de estos se esparcieron las naciones en la tierra después del diluvio"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 344,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":1,
+          "text": "tenía entonces toda la tierra una sola lengua y unas mismas palabras"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 345,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":2,
+          "text": "y aconteció que cuando salieron del oriente hallaron una llanura en la tierra de cinar y se establecieron allí"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 346,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":3,
+          "text": "y se dijeron unos a los otros vamos hagamos ladrillo y cosamoslo con fuego y le sirvió el ladrillo en lugar de piedra y el asfalto en lugar de mezcla"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 347,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":4,
+          "text": "y dijeron vamos edifiquémonos una ciudad y una torre cuya Cúspide llegue al cielo y hagámonos un hombre por si fuéramos esparcidos sobre la faz de toda la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 348,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":5,
+          "text": "y descendió Jehová para ver la ciudad y la torre que edificaban los hijos de los hombres"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 349,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":6,
+          "text": "y dijo Jehová he aquí el pueblo es uno y todos estos tienen un solo lenguaje y han comenzado la obra y nada las hará desistir ahora de lo que han pensado hacer"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 350,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":7,
+          "text": "ahora pues descendamos y confundamos allí su lengua para que ninguno entienda el habla de su compañero"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 351,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":8,
+          "text": "así los esparció Jehová Desde allí sobre la faz de toda la Tierra y dejaron de edificar"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 352,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":9,
+          "text": "por eso Fue llamado el nombre de ella Babel porque allí confundió Jehová el lenguaje de toda la Tierra y Desde allí los esparció sobre la faz de toda la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 353,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":10,
+          "text": "Estas son las generaciones de zen zen de edad de 100 años engendró a arpasar dos años después del diluvio"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 354,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":11,
+          "text": "y vivió zen después que engendró a arpasar 500 años y engendró hijos e hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 355,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":12,
+          "text": "arpasat vivió 35 años y engendró a sala"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 356,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":13,
+          "text": "y y vivió al fasat después que engendró a sala 403 años y engendró hijos e hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 357,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":14,
+          "text": "sala vivió 30 años y engendró a Ever"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 358,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":15,
+          "text": "y vivió sala después que engendró a Ever 403 años y engendró hijos e hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 359,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":16,
+          "text": "fever vivió 30 años y 4 años y engendró a Pelé"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 360,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":17,
+          "text": "y vivió Ever después que engendró a Pelé 430 años y engendró hijos e hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 361,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":18,
+          "text": "y Pelé vivió 30 años y engendró a reu"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 362,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":19,
+          "text": "y vivió Pelé después que engendró a reu 209 años y engendró hijos e hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 363,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":20,
+          "text": "reu vivió 32 años y engendró a cerut"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 364,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":21,
+          "text": "y vivió reu después que engendró a ceruco 207 años y engendró hijos e hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 365,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":22,
+          "text": "serruk vivió 30 años y engendró anacor"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 366,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":23,
+          "text": "y vivió cerú después que engendró anacor 200 años y engendró hijos e hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 367,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":24,
+          "text": "nacor vivió 29 años y engendró a tare"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 368,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":25,
+          "text": "y vivió nacor después que engendró atare 109 119 años y engendró hijos e hijas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 369,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":26,
+          "text": "tare vivió 70 años y engendró a Abram anacor y arán"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 370,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":27,
+          "text": "Estas son las generaciones de tare tare engendró a Abram y anacor y Aarón y arán engendró a los"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 371,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":28,
+          "text": "y murió arán antes que su padre tare en la tierra de su nacimiento en Ur de los caldeos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 372,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":29,
+          "text": "y tomaron Abram inacor para mujeres el nombre de la mujer de Abram era Saray y el nombre de la mujer de nacor milca hija de Adán padre de Milka y de ista"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 373,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":30,
+          "text": "mazarai era estéril y no tenía hijo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 374,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":31,
+          "text": "y tomó tarea a Abram su hijo y a Lót hijo de Adán hijo de su hijo y azade Saraí su nuera mujer de Abram su hijo y salió con ellos de Ur de los caldeos para ir a la tierra de Canaán y vinieron hasta arán y se quedaron allí"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 375,
+        "fields":{
+          "book":1,
+          "chapter":11,
+          "verse":32,
+          "text": "y fueron los días de tare 205 años y murió tare en Harán."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 376,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":1,
+          "text": "pero Jehová había dicho a Abram vete de tu tierra y de tu parentela y de la casa de tu padre a la tierra que te mostraré"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 377,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":2,
+          "text": "y haré de ti una nación grande y te bendeciré y engrandeceré tu nombre y serás bendición"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 378,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":3,
+          "text": "Bendeciré a los que te bendijere y a los que te maldijeren maldeciré y serán benditas en ti todas las familias de la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 379,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":4,
+          "text": "y se fue Abram como Jehová le dijo a Lót fue con él y era Abram de edad de 75 años cuando salió de arán"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 380,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":5,
+          "text": "tomó pues Abram a Saraí su mujer y a Lót hijo de su hermano y todos sus bienes que habían ganado y las personas que habían adquirido en arán y salieron para ir a tierra de canal y a tierra de Canaán llegaron"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 381,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":6,
+          "text": "y pasó Abram por aquella tierra hasta el lugar de siquén Hasta el Encino demore y el cananeo estaba entonces en la tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 382,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":7,
+          "text": "y apareció Jehová Abram y le dijo a tu descendencia daré esta tierra y edificó allí un altar a Jehová quien le había aparecido"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 383,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":8,
+          "text": "luego se pase de allí a un monto al Oriente de bethel y plantó su tienda teniendo Abel al occidente y ahí al Oriente y el pico allí habilitar a Jehová e invocó el nombre de Jehová"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 384,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":9,
+          "text": "que habrán partido de allí Caminando y yendo hacia el nihue"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 385,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":10,
+          "text": "hubo entonces hambre en la tierra y descendió a Abram a Egipto para morar allá porque era grande el hambre en la tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 386,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":11,
+          "text": "y aconteció que cuando estaba para entrar en Egipto dijo Saray su mujer he aquí ahora conozco que eres mujer de hermoso aspecto"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 387,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":12,
+          "text": "y cuando te vean los egipcios Irán su mujer es y me matarán a mí y a ti te reservarán la vida"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 388,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":13,
+          "text": "ahora pues di que eres mi hermana para que me vaya bien por causa tuya y viva mi alma por causa de ti"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 389,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":14,
+          "text": "y aconteció que Cuando entró Abram en Egipto los egipcios vieron que la mujer era hermosa y gran manera"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 390,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":15,
+          "text": "también la vieron Los Príncipes de Faraón y la alabaron delante de él y fue llevada a la mujer a casa de faraón"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 391,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":16,
+          "text": "e hizo bien a Abram por causa de ella y él tuvo ovejas vacas asnos siervas creadas asnas y Camellos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 392,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":17,
+          "text": "más Jehová hirió a faraón y a su casa con grandes plagas por causa de Saraí mujer de Abram"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 393,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":18,
+          "text": "entonces faraón llamó a Abram y le dijo qué es esto Qué hace conmigo Por qué no me declaraste que era tu mujer"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 394,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":19,
+          "text": "porque dijiste es mi hermana poniéndome en ocasión de tomarla para mí por mujer ahora pues he aquí tu mujer Tómala y vete"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 395,
+        "fields":{
+          "book":1,
+          "chapter":12,
+          "verse":20,
+          "text": "entonces para un dio orden a sus gente acerca de Abram y le acompañaron y a su mujer como con todo lo que tenía"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 396,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":1,
+          "text": "subió pues Abram de Egipto hacia el nihue Él y su mujer con todo lo que tenía y con él Lót"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 397,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":2,
+          "text": "y Abram era riquísimo en ganado en plata y en oro"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 398,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":3,
+          "text": "y volvió por sus jornadas desde el nihue hasta ver el hasta el lugar donde había estado Antes su tienda Entre él y ahí"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 399,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":4,
+          "text": "al lugar del altar que había hecho allí antes e invocó allí Abram el nombre de Jehová"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 400,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":5,
+          "text": "también los que andaba con Abram tenía ovejas vacas y tiendas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 401,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":6,
+          "text": "y la tierra no era suficiente para que habitasen juntos pues sus posesiones eran muchas y no podían morar en un mismo lugar"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 402,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":7,
+          "text": "y hubo contienda entre los pastores del ganado de Abram y los pastores del ganado de Lót, y el cananeo y el fereceo habitaban entonces en la tierra."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 403,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":8,
+          "text": "Entonces Abram dijo al otro no hay ahora altercado entre nosotros dos entre mis pastores y los tuyos porque somos hermanos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 404,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":9,
+          "text": "no está toda la tierra delante de ti yo te ruego que te apartes de mí si fueras a la mano izquierda Yo iré a la derecha y si tú a la derecha Yo iré a la izquierda"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 405,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":10,
+          "text": "y al solo sus ojos y vio toda la llanura del Jordán que toda ella era de riego como el huerto de Jehová como la tierra de Egipto en la dirección de soar antes que destruyese Jehová a Sodoma y Gomorra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 406,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":11,
+          "text": "Entonces lo escogió para así toda la llanura del Jordán y se fue Lót hacia el Oriente y se apartaron el uno del otro"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 407,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":12,
+          "text": "Abram acampó en la tierra de Canaán en tanto que Lót habitó en las ciudades de la llanura y fue poniendo sus tiendas hasta Sodoma"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 408,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":13,
+          "text": "más los hombres de Sodoma eran malos y pecadores contra Jehová en gran manera"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 409,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":14,
+          "text": "y Jehová dijo a Abram después que luego se apartó de él al SAT ahora tus ojos y mira desde el lugar donde estás hacia el norte y el sur y al Oriente y al occidente"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 410,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":15,
+          "text": "porque toda la tierra que ves la daré a ti y a tu descendencia para siempre"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 411,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":16,
+          "text": "y haré tu descendencia como el polvo de la tierra que si alguno puede contar el polvo de la tierra también tu descendencia será contada"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 412,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":17,
+          "text": "levántate ve por la tierra a lo largo de ella y a su ancho porque a ti la daré"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 413,
+        "fields":{
+          "book":1,
+          "chapter":13,
+          "verse":18,
+          "text": "Abram pues removiendo su tienda vino y Morón en el encinar de mare que está en hebrón y edificó allí altar a Jehová"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 414,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":1,
+          "text": "aconteció en los días de amarafel Reyes inar yoc rey de El azar quedó la omer rey de Lan y tildal rey de Boeing"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 415,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":2,
+          "text": "que estos hicieron guerra contra Vera rey de Sodoma contra Versa rey de Gomorra Bogotá rey de Batman contra seme beber rey de ceboín y contra El Rey de Vela la cual es soa"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 416,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":3,
+          "text": "todos estos Se juntaron en el valle de sirín que es el mar salado"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 417,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":4,
+          "text": "12 años habían servido A qué dor laomer y en el décimo tercero se rebelaron"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 418,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":5,
+          "text": "y en el año décimo cuarto vino que dorlan pomer y los reyes que estaban de su parte y derrotaron a los refaítas en astarot carnaín a los susitas en a los emitas en save Kia time"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 419,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":6,
+          "text": "y a los oreos en el Monte de seil hasta la llanura de parán que está junto al Desierto"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 420,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":7,
+          "text": "y volvieron y vinieron a en mispa que es cades y desbastaron todo el país de los amalecitas y también al amorreo que habitaba en asesor Tamara"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 421,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":8,
+          "text": "y salieron El rey de Sodoma El rey de Gomorra El rey de atman El rey de ceboín y el rey de Vela Que es suave y ordenaron contra ellos batalla en el Valle del sirín"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 422,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":9,
+          "text": "esto es contra que dornaomer rey de elam tilda rey de godín San Rafael rey de cinar y arioc rey de El azar cuatro Reyes contra cinco"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 423,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":10,
+          "text": "y el valle de sidín estaba lleno de pozos de asfalto y cuando huyeron el rey de Sodoma y el de Gomorra algunos cayeron allí y los demás vieron al monte"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 424,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":11,
+          "text": "y tomarón la riqueza de Sodoma y de Gomorra y todas sus provisiones y se fueron"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 425,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":12,
+          "text": "tomaron también a Lót hijo del hermano de Abram que moraba en Sodoma y sus bienes y se fueron"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 426,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":13,
+          "text": "y vino uno de los que escaparon y los anunció Abram el hebreo que habitaba en el encinar de manree el amorreo hermano de escol y hermano de Anel los cuales eran aliados de Abram"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 427,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":14,
+          "text": "o yo abra ante su pariente estaba prisionero y armó a sus criados los nacidos en su casa 318 y lo siguió hasta Dan"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 428,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":15,
+          "text": "y cayó sobre ellos de noche él y sus siervos y les atacó y les fue siguiendo hasta oba al norte de Damasco"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 429,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":16,
+          "text": "recobró todos los bienes y también a los pariente y sus bienes y a las mujeres y demás gente"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 430,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":17,
+          "text": "cuando volvía de la derrota de quedor la omed y de los reyes que con él estaban salió el rey de Sodoma a recibirlo al valle de save que es el Valle del Rey"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 431,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":18,
+          "text": "Entonces Melquisedec rey de Salem Lóte Dios zacopan y vino"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 432,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":19,
+          "text": "y bendijo diciendo bendito sea Abram del Dios altísimo creador de los cielos y de la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 433,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":20,
+          "text": "y bendito sea el Dios altísimo que entregó tus enemigos en tu mano y dio Abram los diezmos de todo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 434,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":21,
+          "text": "entonces el rey de Sodoma dijo Abram Dame las personas y toma para ti los bienes"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 435,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":22,
+          "text": "y respondió Abram al rey de Sodoma: He alzado mi mano a Jehová Dios, Altísimo creador de los cielos y de la Tierra."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 436,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":23,
+          "text": "que desde un hilo hasta una correa de calzado nada tomaré todo lo que es tuyo para que no digas yo enriquecí a Abram"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 437,
+        "fields":{
+          "book":1,
+          "chapter":14,
+          "verse":24,
+          "text": "excepto solamente lo que comieron los jóvenes, y la parte de los varones que fueron conmigo, Aner, Escol y Mamre, los cuales tomarán su parte."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 438,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":1,
+          "text": "después de estas cosas vino la palabra de Jehová a Abram en visión diciendo no temas Abram yo soy tu escudo Y tú galardón será sobre mi manera grande"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 439,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":2,
+          "text": "y respondió Abram señor Jehová qué me darás siendo así que ando sin hijo y el mayordomo de mi casa es ese damasceno Eliezer?"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 440,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":3,
+          "text": "dijo también Abram mira que no me has dado prole y es que será mi heredero un esclavo nacido en mi casa"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 441,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":4,
+          "text": "y luego vino a él palabra de Jehová diciendo no te heredarás este sino un hijo tuyo será el que te heredará"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 442,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":5,
+          "text": "y lo llevó fuera y le dijo mira ahora los cielos y cuenta las estrellas si las puedes contar y le dijo Así será tu descendencia"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 443,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":6,
+          "text": "y creyó a Jehová y le fue contado por justicia"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 444,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":7,
+          "text": "y le dijo Yo soy Jehová que te saqué de uno de los caldeos para darte a heredar esta tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 445,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":8,
+          "text": "y él respondió señor Jehová en qué conoceré que la heredar"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 446,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":9,
+          "text": "y le dijo Tráeme una Becerra de 3 años y una cabra de 3 años y un carnero de 3 años una tórtola también y un Palomino"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 447,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":10,
+          "text": "Y tomó el todo esto y los partió por la mitad y puso cada mitad una enfrente de la otra más no partió las aves"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 448,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":11,
+          "text": "y descendían aves de rapiña sobre los cuerpos muertos y habrán las ahuyentado"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 449,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":12,
+          "text": "más a la caída del Sol sobrecogió el sueño Abram y he aquí que el temor de una grande oscuridad cayó sobre el el"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 450,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":13,
+          "text": "entonces Jehová dijo a Abram ten Por cierto que tu descendencia morará en tierra ajena y será esclava allí y será oprimida 400 años"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 451,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":14,
+          "text": "más también a la nación a la cual servirá juzgaré yo y después de esto saldrá con gran riqueza"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 452,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":15,
+          "text": "y tú vendrás a tus padres en paz y serás sepultado en buena vejez"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 453,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":16,
+          "text": "y en la cuarta generación volverá acá porque aún no han llegado a su colmo la maldad del amorreo hasta aquí"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 454,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":17,
+          "text": "y sucedió que puesto el sol y ya oscurecido se veía un horno horneando y una antorcha de fuego que pasaba por entre los animales divididos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 455,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":18,
+          "text": "en aquel día hizo Jehová un pacto con Abram diciendo a tu descendencia daré esta tierra desde el río de Egipto hasta el Río Grande el río éufrates"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 456,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":19,
+          "text": "la tierra de los ceneos la ceniceos los camoneos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 457,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":20,
+          "text": "los heteos los fariseos los refaitas"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 458,
+        "fields":{
+          "book":1,
+          "chapter":15,
+          "verse":21,
+          "text": "los amorreos los cananeos los jergaseos y los jebuseos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 459,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":1,
+          "text": "Sarahí mujer de Abram no le daba hijos y era y ella tenía una cierva egipcia que se llamaba Agar"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 460,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":2,
+          "text": "dijo entonces Sarahí Abram ya ves que Jehová me ha hecho estéril te ruego Pues que te llegues a mi sierva quizás tendré hijos de ella y Atendió Abram al ruego de Saraí"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 461,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":3,
+          "text": "y Saray mujer de Abram tomó a Agar su sierva egipcia al cabo de 10 años que había habitado Abram en la tierra de Canaán y la dio por mujer Abram su marido"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 462,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":4,
+          "text": "y él se llegó a dar la cual concibió y cuando vio que había concebido miraba con desprecio a su señora"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 463,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":5,
+          "text": "Entonces Sarahí dijo Abram me afrenta sea sobre ti yo te di mi sierva por mujer y viéndose en cinta me mira con desprecio juzgue Jehová entre tú y yo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 464,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":6,
+          "text": "y respondió Abram a saraid he aquí tu sierva está en tu mano Haz con ella lo que bien te parezca Y como Sarahí la fijía ella huyó de su presencia"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 465,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":7,
+          "text": "y la yo El ángel de Jehová junto a una fuente de agua en el desierto junto a la fuente que está en el camino de Sur"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 466,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":8,
+          "text": "y le dijo a la sierva de Sarahí de dónde vienes tú Y a dónde vas y ella respondió huyo de delante de Saraí mi señor"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 467,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":9,
+          "text": "y le dijo el ángel de Jehová vuélvete a tu señora y ponte su misa Bajo su mano"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 468,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":10,
+          "text": "le dijo también el ángel de Jehová multiplicaré tanto tu descendencia que no podrá ser contada a causa de la multitud"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 469,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":11,
+          "text": "Además le dijo el ángel de Jehová he aquí que has concebido y darás a luz un hijo y llamar su nombre Ismael porque Jehová Ha oído tu aflicción"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 470,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":12,
+          "text": "y él será hombre fiero su mano será contra todos y la mano de todos contra él y delante de todos sus hermanos evitará"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 471,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":13,
+          "text": "Entonces llamó el nombre de Jehová que con ella hablaba: Tú eres Dios que ve; porque dijo: ¿No he visto también aquí al que me ve?"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 472,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":14,
+          "text": "Por lo cual llamó al pozo: Pozo del Viviente-que-me-ve. He aquí está entre Cades y Bered."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 473,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":15,
+          "text": "y Agar dio a luz única Abram y llamó a Abram el nombre del hijo que le dio a dar isma"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 474,
+        "fields":{
+          "book":1,
+          "chapter":16,
+          "verse":16,
+          "text": "Era Abram de edad de ochenta y seis años, cuando Agar dió a luz a Ismael."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 475,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":1,
+          "text": "era gran de edad de 99 años cuando le apareció Jehová y le dijo Yo soy el Dios Todopoderoso anda delante de mí Y sé perfecto"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 476,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":2,
+          "text": "y pondré mi pacto entre mí y tía y te multiplicaré en gran manera"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 477,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":3,
+          "text": "entonces Abram se postró sobre su rostro y Dios habló con él diciendo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 478,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":4,
+          "text": "ella tiene partes contigo y serás padre de muchedumbre de gentes"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 479,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":5,
+          "text": "no se llamará más tu nombre Abram sino que será tu nombre Abraham porque te he puesto por padre tu muchedumbre de gentes"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 480,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":6,
+          "text": "y te multiplicaré en gran manera y haré naciones de ti y Reyes saldrán de ti"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 481,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":7,
+          "text": "y estableceré mi pacto entre mí y ti y tu descendencia Después de ti en sus generaciones por pacto Perpetuo para ser tu Dios y él de tu descendencia después de ti"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 482,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":8,
+          "text": "y te daré a ti y a tu descendencia después de ti la tierra en que moras toda la tierra de Canaán en heredad perpetua y seré el Dios de ellos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 483,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":9,
+          "text": "dijo de nuevo Dios a Abraham en cuanto a ti guardarás mi pacto tú y tu descendencia Después de ti por sus generaciones"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 484,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":10,
+          "text": "Este es mi pacto que guardaréis entre mí y vosotros y tu descendencia Después de ti será circuncidado todo varón de entre vosotros"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 485,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":11,
+          "text": "circuncidaréis pues la carne de vuestro prepucio y será por señal de pago del pacto de mi nombre y vosotros"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 486,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":12,
+          "text": "y de edad de 8 días será circuncidado todo varón entre el hombre entre vosotros por vuestras generaciones en el nacido en casa y he comprado por dinero a cualquier extranjero que no fuere de tu linaje"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 487,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":13,
+          "text": "debe ser circuncidado el nacido en tu casa y el comprado por tu dinero y estará mi pacto en vuestra carne por pacto"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 488,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":14,
+          "text": "y el varón incurciso el que no hubiera circuncidado la carne de su propósito aquella persona será cortada de su pueblo a violado mi pacto"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 489,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":15,
+          "text": "dijo también Dios Abraham a Sarahí tu mujer no la llamarás Sarahí masara Será su nombre"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 490,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":16,
+          "text": "y la bendeciré y también te daré de ella hijo si la bendeciré y vendrá a ser madre de Naciones reyes de pueblos vendrá de ella"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 491,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":17,
+          "text": "entonces Abraham se postró sobre su rostro y se rió y dijo en su corazón A hombre de 100 años ha de nacer hijo y Sara ya de 90 años ha de conseguir"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 492,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":18,
+          "text": "y dijo Abraham a Dios Ojalá Ismael viva delante de ti"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 493,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":19,
+          "text": "respondió Dios ciertamente Sara tu mujer te dará a luz un hijo y llamará su nombre Isaac y confirmaré mi pacto con él como pacto Perpetuo para tu descendencia después de él"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 494,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":20,
+          "text": "y en cuanto a Ismael también te he oído he aquí que le bendeciré y le haré fructificar y multiplicar mucho en gran manera 12 príncipes engendrará y hará de él una gran nación"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 495,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":21,
+          "text": "más yo estableceré mi pacto con Zac y que será el que Sara te dará a luz por ese tiempo el año que viene"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 496,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":22,
+          "text": "y acabo de hablar con él y subió Dios de estar con Abraham"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 497,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":23,
+          "text": "Entonces tomó Abraham a Ismael su hijo y a todos los siervos nacidos en su casa y a todos los comprados por su dinero a todo varón entre los domésticos de la casa de Abraham y circuncidó la carne del prepucio de ellos En aquel mismo día como Dios le había dicho"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 498,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":24,
+          "text": "era Abraham de edad de 99 años cuando circuncidó la carne de su prepucio"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 499,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":25,
+          "text": "Ismael su hijo era de 13 años cuando fue circuncidada la carne de su prepucio"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 500,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":26,
+          "text": "en el mismo día fueron circuncidados Abraham e Ismael su hijo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 501,
+        "fields":{
+          "book":1,
+          "chapter":17,
+          "verse":27,
+          "text": "y todos los varones de su casa el siervo nacido en casa y el comprado del extranjero por dinero fueron circuncidados con él"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 502,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":1,
+          "text": "después le apareció Jehová en el encinar de Manre, estando él sentado a la puerta de su tienda en el calor del día"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 503,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":2,
+          "text": "lanzó sus ojos y miró Y he aquí tres varones que estaban junto a él y cuando los vio salió corriendo de la puerta de su tienda al recibirlos y se postró en tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 504,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":3,
+          "text": "y dijo señor si ahora he hallado gracia en tus ojos te ruego que no pases de tu siervo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 505,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":4,
+          "text": "que se traiga ahora un poco de agua y lavar vuestras pies y recostados debajo de un árbol"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 506,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":5,
+          "text": "y traeré un bocado de pan y sustentar vuestro corazón y después pasaréis pues por eso habéis pasado cerca y ellos dijeron Haz así como has dicho"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 507,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":6,
+          "text": "entonces Habraham fue de prisa a la tienda a Sara, y le dijo toma pronto tres medidas de flor de harina, y amasa y haz panes cocidos debajo del rescoldo."
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 508,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":7,
+          "text": "y corrió Abraham a las vacas y tomó un becerro tierno y bueno y lo dio al criado y este se dio prisa a prepararlo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 509,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":8,
+          "text": "tomó también mantequilla y leche y el becerro que había preparado y lo puso delante de ellos y él se se y él se estuvo con ellos debajo del árbol y comieron"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 510,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":9,
+          "text": "y le dijeron Dónde está Sara tu mujer y él respondió aquí en la tienda"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 511,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":10,
+          "text": "Entonces dijo desierto volveré a ti y según el tiempo de la vida he aquí que Sara tu mujer tendrá un hijo y Sara escuchaba a la puerta de la tienda que estaba detrás de él"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 512,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":11,
+          "text": "y Abraham y Sara eran viejos de edad avanzada y a Sara le había cesado ya la costumbre de las mujeres"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 513,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":12,
+          "text": "se rió pues Sara entre sí diciendo después que he envejecido tendré deleite siendo también mi señor ya viejo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 514,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":13,
+          "text": "entonces Jehová dijo a Abraham Por qué se ha reído Sara diciendo Será cierto que he de dar a luz siendo ya vieja"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 515,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":14,
+          "text": "hay para Dios alguna cosa difícil al tiempo señalado volveré a ti y según el tiempo de la vida Sara tendrá un hijo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 516,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":15,
+          "text": "entonces Sara negó diciendo no me reí porque tuvo miedo y él dijo No es así sino que te has reído"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 517,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":16,
+          "text": "y los varones se levantaron de allí y miraron hacia Sodoma y Abraham iba con ellos acompañándolos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 518,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":17,
+          "text": "y Jehová dijo encubriré yo a Abraham lo que voy a hacer"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 519,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":18,
+          "text": "habiendo de ser Abraham una nación Grande y fuerte y habiendo de ser benditas en él todas las naciones de la Tierra"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 520,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":19,
+          "text": "Porque yo sé que mandaré a sus hijos y a su casa después de sí que guarden el camino de Jehová haciendo justicia y juicio para que hagan venir Jehová sobre Abraham lo que ha hablado acerca de él"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 521,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":20,
+          "text": "entonces Jehová le dijo por cuanto El clamor contra Sodoma y Gomorra se aumentan más y más y el pecado de ellos se ha agravado en extremo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 522,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":21,
+          "text": "descenderé ahora y veré si han consumado su obra según El clamor que ha venido hasta mí y si no lo sabré"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 523,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":22,
+          "text": "y se apartaron de allí Los varones y fueron hacia Sodoma pero Abraham estaba aún delante de Jehová"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 524,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":23,
+          "text": "y se acercó Abraham y dijo destruirás también al justo con el impío"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 525,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":24,
+          "text": "quizá haya 50 justos dentro de la ciudad destruirás también y no perdonarás al lugar por amor a los 50 justos que estén dentro de él"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 526,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":25,
+          "text": "Lejos de ti el hacer tal que hagas morir al justo con el impío y que sea el justo tratado como el impío nunca talagas el juez de toda la Tierra no ha de hacer lo que es justo"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 527,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":26,
+          "text": "entonces respondió Jehová Si hallar en Sodoma se encuentra justos dentro de la ciudad perdonaré a todo este lugar por amor a ellos"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 528,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":27,
+          "text": "y Abraham replicó y dijo he aquí ahora que he comenzado a hablar a mi Señor Aunque soy polvo y ceniza"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 529,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":28,
+          "text": "Quizá faltara en 50 cultos sin prosperidad por aquellas cinco toda la ciudad y dijo no la destruiré si hallare allí 45"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 530,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":29,
+          "text": "y volvió a hablarle y dijo quizá se hallare allí 40 y respondió no lo haré Por amor a los 40"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 531,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":30,
+          "text": "y dijo no se enoje ahora mi señor si hablare quizás se hallarán allí 30 y respondió no lo haré si hallare allí 30"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 532,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":31,
+          "text": "y dijo he aquí ahora que he emprendido el hablar al Señor quizás la vestiré respondió Por amor a los 20"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 533,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":32,
+          "text": "y volvió a decir no se enoje ahora mi señor si hablare solamente una vez pisar se hallara allí 10 no la destruiré respondió Por amor a los 10"
+        }
+      },
+    
+
+      {
+        "model":"bookdata.Reference",
+        "pk": 534,
+        "fields":{
+          "book":1,
+          "chapter":18,
+          "verse":33,
+          "text": "y Jehová se fue luego que acabo de hablar a Abraham y Abraham volvió a su lugar"
+        }
+      }
+    
+
 
 ]
