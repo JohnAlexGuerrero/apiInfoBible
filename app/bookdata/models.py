@@ -89,7 +89,7 @@ class Reference(models.Model):
     text = models.TextField() 
 
     class Meta:
-        ordering = ('chapter',)
+        ordering = ('chapter','verse')
         verbose_name = ("Reference")
         verbose_name_plural = ("References")
 
