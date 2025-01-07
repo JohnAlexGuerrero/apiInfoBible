@@ -1,0 +1,16 @@
+{% extends "base/index.html" %}
+
+{% load static %}
+
+{% block title %}home{% endblock title %}
+
+{% block content %}
+<h1>Bible</h1>
+
+<div hx-get="{% url "books" %}" hx-target="#list-books" hx-swap="outerHTML">
+    <ul id="list-books">
+        <li>{{}}</li>
+    </ul>
+</div>
+
+{% endblock content %}
