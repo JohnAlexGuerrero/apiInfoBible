@@ -1,7 +1,7 @@
 [
     {
         "model": "bookdata.Reference",
-        "pk": 100,
+        "pk": 1609,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -11,7 +11,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 101,
+        "pk": 1610,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -21,7 +21,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 102,
+        "pk": 1611,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -31,7 +31,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 103,
+        "pk": 1612,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -41,7 +41,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 104,
+        "pk": 1613,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -51,7 +51,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 105,
+        "pk": 1614,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -61,7 +61,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 106,
+        "pk": 1615,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -71,7 +71,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 107,
+        "pk": 1616,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -81,7 +81,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 108,
+        "pk": 1617,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -91,7 +91,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 109,
+        "pk": 1618,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -101,7 +101,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 110,
+        "pk": 1619,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -111,7 +111,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 111,
+        "pk": 1620,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -121,7 +121,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 112,
+        "pk": 1621,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -131,7 +131,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 113,
+        "pk": 1622,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -141,7 +141,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 114,
+        "pk": 1623,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -151,7 +151,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 115,
+        "pk": 1624,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -161,7 +161,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 116,
+        "pk": 1625,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -171,7 +171,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 117,
+        "pk": 1626,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -181,7 +181,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 118,
+        "pk": 1627,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -191,7 +191,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 119,
+        "pk": 1628,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -201,7 +201,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 120,
+        "pk": 1629,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -211,7 +211,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 121,
+        "pk": 1630,
         "fields": {
             "book": 2,
             "chapter": 1,
@@ -221,7 +221,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 122,
+        "pk": 1631,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -231,7 +231,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 123,
+        "pk": 1632,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -241,7 +241,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 124,
+        "pk": 1633,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -251,7 +251,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 125,
+        "pk": 1634,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -261,7 +261,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 126,
+        "pk": 1635,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -271,7 +271,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 127,
+        "pk": 1636,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -281,7 +281,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 128,
+        "pk": 1637,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -291,7 +291,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 129,
+        "pk": 1638,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -301,7 +301,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 130,
+        "pk": 1639,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -311,7 +311,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 131,
+        "pk": 1640,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -321,7 +321,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 132,
+        "pk": 1641,
         "fields": {
             "book": 2,
             "chapter": 2,
@@ -331,7 +331,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 133,
+        "pk": 1642,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -341,7 +341,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 134,
+        "pk": 1643,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -351,7 +351,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 135,
+        "pk": 1644,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -361,7 +361,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 136,
+        "pk": 1645,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -371,7 +371,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 137,
+        "pk": 1646,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -381,7 +381,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 138,
+        "pk": 1647,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -391,7 +391,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 139,
+        "pk": 1648,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -401,7 +401,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 140,
+        "pk": 1649,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -411,7 +411,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 141,
+        "pk": 1650,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -421,7 +421,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 142,
+        "pk": 1651,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -431,7 +431,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 143,
+        "pk": 1652,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -441,7 +441,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 144,
+        "pk": 1653,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -451,7 +451,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 145,
+        "pk": 1654,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -461,7 +461,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 146,
+        "pk": 1655,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -471,7 +471,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 147,
+        "pk": 1656,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -481,7 +481,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 148,
+        "pk": 1657,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -491,7 +491,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 149,
+        "pk": 1658,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -501,7 +501,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 150,
+        "pk": 1659,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -511,7 +511,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 151,
+        "pk": 1660,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -521,7 +521,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 152,
+        "pk": 1661,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -531,7 +531,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 153,
+        "pk": 1662,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -541,7 +541,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 154,
+        "pk": 1663,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -551,7 +551,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 155,
+        "pk": 1664,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -561,7 +561,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 156,
+        "pk": 1665,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -571,7 +571,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 157,
+        "pk": 1666,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -581,7 +581,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 158,
+        "pk": 1667,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -591,7 +591,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 159,
+        "pk": 1667,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -601,7 +601,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 160,
+        "pk": 1668,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -611,7 +611,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 161,
+        "pk": 1669,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -621,7 +621,7 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 162,
+        "pk": 1670,
         "fields": {
             "book": 2,
             "chapter": 4,
@@ -631,12 +631,187 @@
     },
     {
         "model": "bookdata.Reference",
-        "pk": 163,
+        "pk": 1671,
         "fields": {
             "book": 2,
             "chapter": 4,
             "verse": 31,
             "text": "y el pueblo creyó y oyendo Que Jehová había visitado a los hijos de Israel y que había visto su aflicción se inclinaron y adoraron"
         }
-    }
+    },
+    {"model":"bookdata.reference", "pk": 1672 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 1 ,"text":" Después Moisés y Aarón entraron a la presencia de Faraón y le dijeron: Jehová el Dios de Israel dice así: Deja ir a mi pueblo a celebrarme fiesta en el desierto. "}},
+{"model":"bookdata.reference", "pk": 1673 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 2 ,"text":" Y Faraón respondió: ¿Quién es Jehová, para que yo oiga su voz y deje ir a Israel? Yo no conozco a Jehová, ni tampoco dejaré ir a Israel. "}},
+{"model":"bookdata.reference", "pk": 1674 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 3 ,"text":" Y ellos dijeron: El Dios de los hebreos nos ha encontrado "}},
+{"model":"bookdata.reference", "pk": 1675 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 4 ,"text":" Entonces el rey de Egipto les dijo: Moisés y Aarón, ¿por qué hacéis cesar al pueblo de su trabajo? Volved a vuestras tareas. "}},
+{"model":"bookdata.reference", "pk": 1676 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 5 ,"text":" Dijo también Faraón: He aquí el pueblo de la tierra es ahora mucho, y vosotros les hacéis cesar de sus tareas. "}},
+{"model":"bookdata.reference", "pk": 1677 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 6 ,"text":" Y mandó Faraón aquel mismo día a los cuadrilleros del pueblo que lo tenían a su cargo, y a sus capataces, diciendo: "}},
+{"model":"bookdata.reference", "pk": 1678 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 7 ,"text":" De aquí en adelante no daréis paja al pueblo para hacer ladrillo, como hasta ahora "}},
+{"model":"bookdata.reference", "pk": 1679 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 8 ,"text":" Y les impondréis la misma tarea de ladrillo que hacían antes, y no les disminuiréis nada "}},
+{"model":"bookdata.reference", "pk": 1680 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 9 ,"text":" Agrávese la servidumbre sobre ellos, para que se ocupen en ella, y no atiendan a palabras mentirosas. "}},
+{"model":"bookdata.reference", "pk": 1681 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 10 ,"text":" Y saliendo los cuadrilleros del pueblo y sus capataces, hablaron al pueblo, diciendo: Así ha dicho Faraón: Yo no os doy paja. "}},
+{"model":"bookdata.reference", "pk": 1682 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 11 ,"text":" Id vosotros y recoged la paja donde la halléis "}},
+{"model":"bookdata.reference", "pk": 1683 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 12 ,"text":" Entonces el pueblo se esparció por toda la tierra de Egipto para recoger rastrojo en lugar de paja. "}},
+{"model":"bookdata.reference", "pk": 1684 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 13 ,"text":" Y los cuadrilleros los apremiaban, diciendo: Acabad vuestra obra, la tarea de cada día en su día, como cuando se os daba paja. "}},
+{"model":"bookdata.reference", "pk": 1685 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 14 ,"text":" Y azotaban a los capataces de los hijos de Israel que los cuadrilleros de Faraón habían puesto sobre ellos, diciendo: ¿Por qué no habéis cumplido vuestra tarea de ladrillo ni ayer ni hoy, como antes? "}},
+{"model":"bookdata.reference", "pk": 1686 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 15 ,"text":" Y los capataces de los hijos de Israel vinieron a Faraón y se quejaron a él, diciendo: ¿Por qué lo haces así con tus siervos? "}},
+{"model":"bookdata.reference", "pk": 1687 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 16 ,"text":" No se da paja a tus siervos, y con todo nos dicen: Haced el ladrillo. Y he aquí tus siervos son azotados, y el pueblo tuyo es el culpable. "}},
+{"model":"bookdata.reference", "pk": 1688 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 17 ,"text":" Y él respondió: Estáis ociosos, sí, ociosos, y por eso decís: Vamos y ofrezcamos sacrificios a Jehová. "}},
+{"model":"bookdata.reference", "pk": 1689 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 18 ,"text":" Id pues, ahora, y trabajad. No se os dará paja, y habéis de entregar la misma tarea de ladrillo. "}},
+{"model":"bookdata.reference", "pk": 1690 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 19 ,"text":" Entonces los capataces de los hijos de Israel se vieron en aflicción, al decírseles: No se disminuirá nada de vuestro ladrillo, de la tarea de cada día. "}},
+{"model":"bookdata.reference", "pk": 1691 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 20 ,"text":" Y encontrando a Moisés y a Aarón, que estaban a la vista de ellos cuando salían de la presencia de Faraón, "}},
+{"model":"bookdata.reference", "pk": 1692 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 21 ,"text":" les dijeron: Mire Jehová sobre vosotros, y juzgue "}},
+{"model":"bookdata.reference", "pk": 1693 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 22 ,"text":" Entonces Moisés se volvió a Jehová, y dijo: Señor, ¿por qué afliges a este pueblo? ¿Para qué me enviaste? "}},
+{"model":"bookdata.reference", "pk": 1694 ,"fields":{"book":  2 ,"chapter": 5 ,"verse": 23 ,"text":" Porque desde que yo vine a Faraón para hablarle en tu nombre, ha afligido a este pueblo "}},
+{"model":"bookdata.reference", "pk": 1695 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 1 ,"text":" Jehová respondió a Moisés: Ahora verás lo que yo haré a Faraón "}},
+{"model":"bookdata.reference", "pk": 1696 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 2 ,"text":" Habló todavía Dios a Moisés, y le dijo: Yo soy JEHOVÁ. "}},
+{"model":"bookdata.reference", "pk": 1697 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 3 ,"text":" Y aparecí a Abraham, a Isaac y a Jacob como Dios Omnipotente, mas en mi nombre JEHOVÁ no me di a conocer a ellos. "}},
+{"model":"bookdata.reference", "pk": 1698 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 4 ,"text":" También establecí mi pacto con ellos, de darles la tierra de Canaán, la tierra en que fueron forasteros, y en la cual habitaron. "}},
+{"model":"bookdata.reference", "pk": 1699 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 5 ,"text":" Asimismo yo he oído el gemido de los hijos de Israel, a quienes hacen servir los egipcios, y me he acordado de mi pacto. "}},
+{"model":"bookdata.reference", "pk": 1700 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 6 ,"text":" Por tanto, dirás a los hijos de Israel: Yo soy JEHOVÁ "}},
+{"model":"bookdata.reference", "pk": 1701 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 7 ,"text":" y os tomaré por mi pueblo y seré vuestro Dios "}},
+{"model":"bookdata.reference", "pk": 1702 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 8 ,"text":" Y os meteré en la tierra por la cual alcé mi mano jurando que la daría a Abraham, a Isaac y a Jacob "}},
+{"model":"bookdata.reference", "pk": 1703 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 9 ,"text":" De esta manera habló Moisés a los hijos de Israel "}},
+{"model":"bookdata.reference", "pk": 1704 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 10 ,"text":" Y habló Jehová a Moisés, diciendo: "}},
+{"model":"bookdata.reference", "pk": 1705 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 11 ,"text":" Entra y habla a Faraón rey de Egipto, que deje ir de su tierra a los hijos de Israel. "}},
+{"model":"bookdata.reference", "pk": 1706 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 12 ,"text":" Y respondió Moisés delante de Jehová: He aquí, los hijos de Israel no me escuchan "}},
+{"model":"bookdata.reference", "pk": 1707 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 13 ,"text":" Entonces Jehová habló a Moisés y a Aarón y les dio mandamiento para los hijos de Israel, y para Faraón rey de Egipto, para que sacasen a los hijos de Israel de la tierra de Egipto. "}},
+{"model":"bookdata.reference", "pk": 1708 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 14 ,"text":" Estos son los jefes de las familias de sus padres: Los hijos de Rubén, el primogénito de Israel: Hanoc, Falú, Hezrón y Carmi "}},
+{"model":"bookdata.reference", "pk": 1709 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 15 ,"text":" Los hijos de Simeón: Jemuel, Jamín, Ohad, Jaquín, Zohar, y Saúl hijo de una cananea. Estas son las familias de Simeón. "}},
+{"model":"bookdata.reference", "pk": 1710 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 16 ,"text":" Estos son los nombres de los hijos de Leví por sus linajes: Gersón, Coat y Merari. Y los años de la vida de Leví fueron ciento treinta y siete años. "}},
+{"model":"bookdata.reference", "pk": 1711 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 17 ,"text":" Los hijos de Gersón: Libni y Simei, por sus familias. "}},
+{"model":"bookdata.reference", "pk": 1712 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 18 ,"text":" Y los hijos de Coat: Amram, Izhar, Hebrón y Uziel. Y los años de la vida de Coat fueron ciento treinta y tres años. "}},
+{"model":"bookdata.reference", "pk": 1713 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 19 ,"text":" Y los hijos de Merari: Mahli y Musi. Estas son las familas de Leví por sus linajes. "}},
+{"model":"bookdata.reference", "pk": 1714 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 20 ,"text":" Y Amram tomó por mujer a Jocabed su tía, la cual dio a luz a Aarón y a Moisés. Y los años de la vida de Amram fueron ciento treinta y siete años. "}},
+{"model":"bookdata.reference", "pk": 1715 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 21 ,"text":" Los hijos de Izhar: Coré, Nefeg y Zicri. "}},
+{"model":"bookdata.reference", "pk": 1716 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 22 ,"text":" Y los hijos de Uziel: Misael, Elzafán y Sitri. "}},
+{"model":"bookdata.reference", "pk": 1717 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 23 ,"text":" Y tomó Aarón por mujer a Elisabet hija de Aminadab, hermana de Naasón "}},
+{"model":"bookdata.reference", "pk": 1718 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 24 ,"text":" Los hijos de Coré: Asir, Elcana y Abiasaf. Estas son las familias de los coreítas. "}},
+{"model":"bookdata.reference", "pk": 1719 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 25 ,"text":" Y Eleazar hijo de Aarón tomó para sí mujer de las hijas de Futiel, la cual dio a luz a Finees. Y estos son los jefes de los padres de los levitas por sus familias. "}},
+{"model":"bookdata.reference", "pk": 1720 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 26 ,"text":" Este es aquel Aarón y aquel Moisés, a los cuales Jehová dijo: Sacad a los hijos de Israel de la tierra de Egipto por sus ejércitos. "}},
+{"model":"bookdata.reference", "pk": 1721 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 27 ,"text":" Estos son los que hablaron a Faraón rey de Egipto, para sacar de Egipto a los hijos de Israel. Moisés y Aarón fueron éstos. "}},
+{"model":"bookdata.reference", "pk": 1722 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 28 ,"text":" Cuando Jehová habló a Moisés en la tierra de Egipto, "}},
+{"model":"bookdata.reference", "pk": 1723 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 29 ,"text":" entonces Jehová habló a Moisés, diciendo: Yo soy JEHOVÁ "}},
+{"model":"bookdata.reference", "pk": 1724 ,"fields":{"book":  2 ,"chapter": 6 ,"verse": 30 ,"text":" Y Moisés respondió delante de Jehová: He aquí, yo soy torpe de labios "}},
+{"model":"bookdata.reference", "pk": 1725 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 1 ,"text":" Jehová dijo a Moisés: Mira, yo te he constituido dios para Faraón, y tu hermano Aarón será tu profeta. "}},
+{"model":"bookdata.reference", "pk": 1726 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 2 ,"text":" Tú dirás todas las cosas que yo te mande, y Aarón tu hermano hablará a Faraón, para que deje ir de su tierra a los hijos de Israel. "}},
+{"model":"bookdata.reference", "pk": 1727 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 3 ,"text":" Y yo endureceré el corazón de Faraón, y multiplicaré en la tierra de Egipto mis señales y mis maravillas. "}},
+{"model":"bookdata.reference", "pk": 1728 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 4 ,"text":" Y Faraón no os oirá "}},
+{"model":"bookdata.reference", "pk": 1729 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 5 ,"text":" Y sabrán los egipcios que yo soy Jehová, cuando extienda mi mano sobre Egipto, y saque a los hijos de Israel de en medio de ellos. "}},
+{"model":"bookdata.reference", "pk": 1730 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 6 ,"text":" E hizo Moisés y Aarón como Jehová les mandó "}},
+{"model":"bookdata.reference", "pk": 1731 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 7 ,"text":" Era Moisés de edad de ochenta años, y Aarón de edad de ochenta y tres, cuando hablaron a Faraón. "}},
+{"model":"bookdata.reference", "pk": 1732 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 8 ,"text":" Habló Jehová a Moisés y a Aarón, diciendo: "}},
+{"model":"bookdata.reference", "pk": 1733 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 9 ,"text":" Si Faraón os respondiere diciendo: Mostrad milagro "}},
+{"model":"bookdata.reference", "pk": 1734 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 10 ,"text":" Vinieron, pues, Moisés y Aarón a Faraón, e hicieron como Jehová lo había mandado. Y echó Aarón su vara delante de Faraón y de sus siervos, y se hizo culebra. "}},
+{"model":"bookdata.reference", "pk": 1735 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 11 ,"text":" Entonces llamó también Faraón sabios y hechiceros, e hicieron también lo mismo los hechiceros de Egipto con sus encantamientos "}},
+{"model":"bookdata.reference", "pk": 1736 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 12 ,"text":" pues echó cada uno su vara, las cuales se volvieron culebras "}},
+{"model":"bookdata.reference", "pk": 1737 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 13 ,"text":" Y el corazón de Faraón se endureció, y no los escuchó, como Jehová lo había dicho. "}},
+{"model":"bookdata.reference", "pk": 1738 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 14 ,"text":" Entonces Jehová dijo a Moisés: El corazón de Faraón está endurecido, y no quiere dejar ir al pueblo. "}},
+{"model":"bookdata.reference", "pk": 1739 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 15 ,"text":" Ve por la mañana a Faraón, he aquí que él sale al río "}},
+{"model":"bookdata.reference", "pk": 1740 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 16 ,"text":" y dile: Jehová el Dios de los hebreos me ha enviado a ti, diciendo: Deja ir a mi pueblo, para que me sirva en el desierto "}},
+{"model":"bookdata.reference", "pk": 1741 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 17 ,"text":" Así ha dicho Jehová: En esto conocerás que yo soy Jehová: he aquí, yo golpearé con la vara que tengo en mi mano el agua que está en el río, y se convertirá en sangre. "}},
+{"model":"bookdata.reference", "pk": 1742 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 18 ,"text":" Y los peces que hay en el río morirán, y hederá el río, y los egipcios tendrán asco de beber el agua del río. "}},
+{"model":"bookdata.reference", "pk": 1743 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 19 ,"text":" Y Jehová dijo a Moisés: Di a Aarón: Toma tu vara, y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus arroyos y sobre sus estanques, y sobre todos sus depósitos de aguas, para que se conviertan en sangre, y haya sangre por toda la región de Egipto, así en los vasos de madera como en los de piedra. "}},
+{"model":"bookdata.reference", "pk": 1744 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 20 ,"text":" Y Moisés y Aarón hicieron como Jehová lo mandó "}},
+{"model":"bookdata.reference", "pk": 1745 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 21 ,"text":" Asimismo los peces que había en el río murieron "}},
+{"model":"bookdata.reference", "pk": 1746 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 22 ,"text":" Y los hechiceros de Egipto hicieron lo mismo con sus encantamientos "}},
+{"model":"bookdata.reference", "pk": 1747 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 23 ,"text":" Y Faraón se volvió y fue a su casa, y no dio atención tampoco a esto. "}},
+{"model":"bookdata.reference", "pk": 1748 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 24 ,"text":" Y en todo Egipto hicieron pozos alrededor del río para beber, porque no podían beber de las aguas del río. "}},
+{"model":"bookdata.reference", "pk": 1749 ,"fields":{"book":  2 ,"chapter": 7 ,"verse": 25 ,"text":" Y se cumplieron siete días después que Jehová hirió el río. "}},
+{"model":"bookdata.reference", "pk": 1750 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 1 ,"text":" Entonces Jehová dijo a Moisés: Entra a la presencia de Faraón y dile: Jehová ha dicho así: Deja ir a mi pueblo, para que me sirva. "}},
+{"model":"bookdata.reference", "pk": 1751 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 2 ,"text":" Y si no lo quisieres dejar ir, he aquí yo castigaré con ranas todos tus territorios. "}},
+{"model":"bookdata.reference", "pk": 1752 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 3 ,"text":" Y el río criará ranas, las cuales subirán y entrarán en tu casa, en la cámara donde duermes, y sobre tu cama, y en las casas de tus siervos, en tu pueblo, en tus hornos y en tus artesas. "}},
+{"model":"bookdata.reference", "pk": 1753 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 4 ,"text":" Y las ranas subirán sobre ti, sobre tu pueblo, y sobre todos tus siervos. "}},
+{"model":"bookdata.reference", "pk": 1754 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 5 ,"text":" Y Jehová dijo a Moisés: Di a Aarón: Extiende tu mano con tu vara sobre los ríos, arroyos y estanques, para que haga subir ranas sobre la tierra de Egipto. "}},
+{"model":"bookdata.reference", "pk": 1755 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 6 ,"text":" Entonces Aarón extendió su mano sobre las aguas de Egipto, y subieron ranas que cubrieron la tierra de Egipto. "}},
+{"model":"bookdata.reference", "pk": 1756 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 7 ,"text":" Y los hechiceros hicieron lo mismo con sus encantamientos, e hicieron venir ranas sobre la tierra de Egipto. "}},
+{"model":"bookdata.reference", "pk": 1757 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 8 ,"text":" Entonces Faraón llamó a Moisés y a Aarón, y les dijo: Orad a Jehová para que quite las ranas de mí y de mi pueblo, y dejaré ir a tu pueblo para que ofrezca sacrificios a Jehová. "}},
+{"model":"bookdata.reference", "pk": 1758 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 9 ,"text":" Y dijo Moisés a Faraón: Dígnate indicarme cuándo debo orar por ti, por tus siervos y por tu pueblo, para que las ranas sean quitadas de ti y de tus casas, y que solamente queden en el río. "}},
+{"model":"bookdata.reference", "pk": 1759 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 10 ,"text":" Y él dijo: Mañana. Y Moisés respondió: Se hará conforme a tu palabra, para que conozcas que no hay como Jehová nuestro Dios. "}},
+{"model":"bookdata.reference", "pk": 1760 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 11 ,"text":" Y las ranas se irán de ti, y de tus casas, de tus siervos y de tu pueblo, y solamente quedarán en el río. "}},
+{"model":"bookdata.reference", "pk": 1761 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 12 ,"text":" Entonces salieron Moisés y Aarón de la presencia de Faraón. Y clamó Moisés a Jehová tocante a las ranas que había mandado a Faraón. "}},
+{"model":"bookdata.reference", "pk": 1762 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 13 ,"text":" E hizo Jehová conforme a la palabra de Moisés, y murieron las ranas de las casas, de los cortijos y de los campos. "}},
+{"model":"bookdata.reference", "pk": 1763 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 14 ,"text":" Y las juntaron en montones, y apestaba la tierra. "}},
+{"model":"bookdata.reference", "pk": 1764 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 15 ,"text":" Pero viendo Faraón que le habían dado reposo, endureció su corazón y no los escuchó, como Jehová lo había dicho. "}},
+{"model":"bookdata.reference", "pk": 1765 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 16 ,"text":" Entonces Jehová dijo a Moisés: Di a Aarón: Extiende tu vara y golpea el polvo de la tierra, para que se vuelva piojos por todo el país de Egipto. "}},
+{"model":"bookdata.reference", "pk": 1766 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 17 ,"text":" Y ellos lo hicieron así "}},
+{"model":"bookdata.reference", "pk": 1767 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 18 ,"text":" Y los hechiceros hicieron así también, para sacar piojos con sus encantamientos "}},
+{"model":"bookdata.reference", "pk": 1768 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 19 ,"text":" Entonces los hechiceros dijeron a Faraón: Dedo de Dios es éste. Mas el corazón de Faraón se endureció, y no los escuchó, como Jehová lo había dicho. "}},
+{"model":"bookdata.reference", "pk": 1769 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 20 ,"text":" Jehová dijo a Moisés: Levántate de mañana y ponte delante de Faraón, he aquí él sale al río "}},
+{"model":"bookdata.reference", "pk": 1770 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 21 ,"text":" Porque si no dejas ir a mi pueblo, he aquí yo enviaré sobre ti, sobre tus siervos, sobre tu pueblo y sobre tus casas toda clase de moscas "}},
+{"model":"bookdata.reference", "pk": 1771 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 22 ,"text":" Y aquel día yo apartaré la tierra de Gosén, en la cual habita mi pueblo, para que ninguna clase de moscas haya en ella, a fin de que sepas que yo soy Jehová en medio de la tierra. "}},
+{"model":"bookdata.reference", "pk": 1772 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 23 ,"text":" Y yo pondré redención entre mi pueblo y el tuyo. Mañana será esta señal. "}},
+{"model":"bookdata.reference", "pk": 1773 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 24 ,"text":" Y Jehová lo hizo así, y vino toda clase de moscas molestísimas sobre la casa de Faraón, sobre las casas de sus siervos, y sobre todo el país de Egipto "}},
+{"model":"bookdata.reference", "pk": 1774 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 25 ,"text":" Entonces Faraón llamó a Moisés y a Aarón, y les dijo: Andad, ofreced sacrificio a vuestro Dios en la tierra. "}},
+{"model":"bookdata.reference", "pk": 1775 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 26 ,"text":" Y Moisés respondió: No conviene que hagamos así, porque ofreceríamos a Jehová nuestro Dios la abominación de los egipcios. He aquí, si sacrificáramos la abominación de los egipcios delante de ellos, ¿no nos apedrearían? "}},
+{"model":"bookdata.reference", "pk": 1776 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 27 ,"text":" Camino de tres días iremos por el desierto, y ofreceremos sacrificios a Jehová nuestro Dios, como él nos dirá. "}},
+{"model":"bookdata.reference", "pk": 1777 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 28 ,"text":" Dijo Faraón: Yo os dejaré ir para que ofrezcáis sacrificios a Jehová vuestro Dios en el desierto, con tal que no vayáis más lejos "}},
+{"model":"bookdata.reference", "pk": 1778 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 29 ,"text":" Y respondió Moisés: He aquí, al salir yo de tu presencia, rogaré a Jehová que las diversas clases de moscas se vayan de Faraón, y de sus siervos, y de su pueblo mañana "}},
+{"model":"bookdata.reference", "pk": 1779 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 30 ,"text":" Entonces Moisés salió de la presencia de Faraón, y oró a Jehová. "}},
+{"model":"bookdata.reference", "pk": 1780 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 31 ,"text":" Y Jehová hizo conforme a la palabra de Moisés, y quitó todas aquellas moscas de Faraón, de sus siervos y de su pueblo, sin que quedara una. "}},
+{"model":"bookdata.reference", "pk": 1781 ,"fields":{"book":  2 ,"chapter": 8 ,"verse": 32 ,"text":" Mas Faraón endureció aun esta vez su corazón, y no dejó ir al pueblo. "}},
+{"model":"bookdata.reference", "pk": 1782 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 1 ,"text":" Entonces Jehová dijo a Moisés: Entra a la presencia de Faraón, y dile: Jehová, el Dios de los hebreos, dice así: Deja ir a mi pueblo, para que me sirva. "}},
+{"model":"bookdata.reference", "pk": 1783 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 2 ,"text":" Porque si no lo quieres dejar ir, y lo detienes aún, "}},
+{"model":"bookdata.reference", "pk": 1784 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 3 ,"text":" he aquí la mano de Jehová estará sobre tus ganados que están en el campo, caballos, asnos, camellos, vacas y ovejas, con plaga gravísima. "}},
+{"model":"bookdata.reference", "pk": 1785 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 4 ,"text":" Y Jehová hará separación entre los ganados de Israel y los de Egipto, de modo que nada muera de todo lo de los hijos de Israel. "}},
+{"model":"bookdata.reference", "pk": 1786 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 5 ,"text":" Y Jehová fijó plazo, diciendo: Mañana hará Jehová esta cosa en la tierra. "}},
+{"model":"bookdata.reference", "pk": 1787 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 6 ,"text":" Al día siguiente Jehová hizo aquello, y murió todo el ganado de Egipto "}},
+{"model":"bookdata.reference", "pk": 1788 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 7 ,"text":" Entonces Faraón envió, y he aquí que del ganado de los hijos de Israel no había muerto uno. Mas el corazón de Faraón se endureció, y no dejó ir al pueblo. "}},
+{"model":"bookdata.reference", "pk": 1790 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 8 ,"text":" Y Jehová dijo a Moisés y a Aarón: Tomad puñados de ceniza de un horno, y la esparcirá Moisés hacia el cielo delante de Faraón "}},
+{"model":"bookdata.reference", "pk": 1791 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 9 ,"text":" y vendrá a ser polvo sobre toda la tierra de Egipto, y producirá sarpullido con úlceras en los hombres y en las bestias, por todo el país de Egipto. "}},
+{"model":"bookdata.reference", "pk": 1792 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 10 ,"text":" Y tomaron ceniza del horno, y se pusieron delante de Faraón, y la esparció Moisés hacia el cielo "}},
+{"model":"bookdata.reference", "pk": 1793 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 11 ,"text":" Y los hechiceros no podían estar delante de Moisés a causa del sarpullido, porque hubo sarpullido en los hechiceros y en todos los egipcios. "}},
+{"model":"bookdata.reference", "pk": 1794 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 12 ,"text":" Pero Jehová endureció el corazón de Faraón, y no los oyó, como Jehová lo había dicho a Moisés. "}},
+{"model":"bookdata.reference", "pk": 1795 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 13 ,"text":" Entonces Jehová dijo a Moisés: Levántate de mañana, y ponte delante de Faraón, y dile: Jehová, el Dios de los hebreos, dice así: Deja ir a mi pueblo, para que me sirva. "}},
+{"model":"bookdata.reference", "pk": 1796 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 14 ,"text":" Porque yo enviaré esta vez todas mis plagas a tu corazón, sobre tus siervos y sobre tu pueblo, para que entiendas que no hay otro como yo en toda la tierra. "}},
+{"model":"bookdata.reference", "pk": 1797 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 15 ,"text":" Porque ahora yo extenderé mi mano para herirte a ti y a tu pueblo de plaga, y serás quitado de la tierra. "}},
+{"model":"bookdata.reference", "pk": 1798 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 16 ,"text":" Y a la verdad yo te he puesto para mostrar en ti mi poder, y para que mi nombre sea anunciado en toda la tierra. "}},
+{"model":"bookdata.reference", "pk": 1799 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 17 ,"text":" ¿Todavía te ensoberbeces contra mi pueblo, para no dejarlos ir? "}},
+{"model":"bookdata.reference", "pk": 1800 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 18 ,"text":" He aquí que mañana a estas horas yo haré llover granizo muy pesado, cual nunca hubo en Egipto, desde el día que se fundó hasta ahora. "}},
+{"model":"bookdata.reference", "pk": 1801 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 19 ,"text":" Envía, pues, a recoger tu ganado, y todo lo que tienes en el campo "}},
+{"model":"bookdata.reference", "pk": 1802 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 20 ,"text":" De los siervos de Faraón, el que tuvo temor de la palabra de Jehová hizo huir sus criados y su ganado a casa "}},
+{"model":"bookdata.reference", "pk": 1803 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 21 ,"text":" mas el que no puso en su corazón la palabra de Jehová, dejó sus criados y sus ganados en el campo. "}},
+{"model":"bookdata.reference", "pk": 1804 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 22 ,"text":" Y Jehová dijo a Moisés: Extiende tu mano hacia el cielo, para que venga granizo en toda la tierra de Egipto sobre los hombres, y sobre las bestias, y sobre toda la hierba del campo en el país de Egipto. "}},
+{"model":"bookdata.reference", "pk": 1805 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 23 ,"text":" Y Moisés extendió su vara hacia el cielo, y Jehová hizo tronar y granizar, y el fuego se descargó sobre la tierra "}},
+{"model":"bookdata.reference", "pk": 1806 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 24 ,"text":" Hubo, pues, granizo, y fuego mezclado con el granizo, tan grande, cual nunca hubo en toda la tierra de Egipto desde que fue habitada. "}},
+{"model":"bookdata.reference", "pk": 1807 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 25 ,"text":" Y aquel granizo hirió en toda la tierra de Egipto todo lo que estaba en el campo, así hombres como bestias "}},
+{"model":"bookdata.reference", "pk": 1808 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 26 ,"text":" Solamente en la tierra de Gosén, donde estaban los hijos de Israel, no hubo granizo. "}},
+{"model":"bookdata.reference", "pk": 1809 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 27 ,"text":" Entonces Faraón envió a llamar a Moisés y a Aarón, y les dijo: He pecado esta vez "}},
+{"model":"bookdata.reference", "pk": 1810 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 28 ,"text":" Orad a Jehová para que cesen los truenos de Dios y el granizo, y yo os dejaré ir, y no os detendréis más. "}},
+{"model":"bookdata.reference", "pk": 1811 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 29 ,"text":" Y le respondió Moisés: Tan pronto salga yo de la ciudad, extenderé mis manos a Jehová, y los truenos cesarán, y no habrá más granizo "}},
+{"model":"bookdata.reference", "pk": 1812 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 30 ,"text":" Pero yo sé que ni tú ni tus siervos temeréis todavía la presencia de Jehová Dios. "}},
+{"model":"bookdata.reference", "pk": 1813 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 31 ,"text":" El lino, pues, y la cebada fueron destrozados, porque la cebada estaba ya espigada, y el lino en caña. "}},
+{"model":"bookdata.reference", "pk": 1814 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 32 ,"text":" Mas el trigo y el centeno no fueron destrozados, porque eran tardíos. "}},
+{"model":"bookdata.reference", "pk": 1815 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 33 ,"text":" Y salido Moisés de la presencia de Faraón, fuera de la ciudad, extendió sus manos a Jehová, y cesaron los truenos y el granizo, y la lluvia no cayó más sobre la tierra. "}},
+{"model":"bookdata.reference", "pk": 1816 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 34 ,"text":" Y viendo Faraón que la lluvia había cesado, y el granizo y los truenos, se obstinó en pecar, y endurecieron su corazón él y sus siervos. "}},
+{"model":"bookdata.reference", "pk": 1817 ,"fields":{"book":  2 ,"chapter": 9 ,"verse": 35 ,"text":" Y el corazón de Faraón se endureció, y no dejó ir a los hijos de Israel, como Jehová lo había dicho por medio de Moisés. "}},
+{"model":"bookdata.reference", "pk": 1818 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 1 ,"text":" Jehová dijo a Moisés: Entra a la presencia de Faraón "}},
+{"model":"bookdata.reference", "pk": 1819 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 2 ,"text":" y para que cuentes a tus hijos y a tus nietos las cosas que yo hice en Egipto, y mis señales que hice entre ellos "}},
+{"model":"bookdata.reference", "pk": 1820 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 3 ,"text":" Entonces vinieron Moisés y Aarón a Faraón, y le dijeron: Jehová el Dios de los hebreos ha dicho así: ¿Hasta cuándo no querrás humillarte delante de mí? Deja ir a mi pueblo, para que me sirva. "}},
+{"model":"bookdata.reference", "pk": 1821 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 4 ,"text":" Y si aún rehúsas dejarlo ir, he aquí que mañana yo traeré sobre tu territorio la langosta, "}},
+{"model":"bookdata.reference", "pk": 1822 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 5 ,"text":" la cual cubrirá la faz de la tierra, de modo que no pueda verse la tierra "}},
+{"model":"bookdata.reference", "pk": 1823 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 6 ,"text":" Y llenará tus casas, y las casas de todos tus siervos, y las casas de todos los egipcios, cual nunca vieron tus padres ni tus abuelos, desde que ellos fueron sobre la tierra hasta hoy. Y se volvió y salió de delante de Faraón. "}},
+{"model":"bookdata.reference", "pk": 1824 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 7 ,"text":" Entonces los siervos de Faraón le dijeron: ¿Hasta cuándo será este hombre un lazo para nosotros? Deja ir a estos hombres, para que sirvan a Jehová su Dios. ¿Acaso no sabes todavía que Egipto está ya destruido? "}},
+{"model":"bookdata.reference", "pk": 1825 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 8 ,"text":" Y Moisés y Aarón volvieron a ser llamados ante Faraón, el cual les dijo: Andad, servid a Jehová vuestro Dios. ¿Quiénes son los que han de ir? "}},
+{"model":"bookdata.reference", "pk": 1826 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 9 ,"text":" Moisés respondió: Hemos de ir con nuestros niños y con nuestros viejos, con nuestros hijos y con nuestras hijas "}},
+{"model":"bookdata.reference", "pk": 1827 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 10 ,"text":" Y él les dijo: ¡Así sea Jehová con vosotros! ¿Cómo os voy a dejar ir a vosotros y a vuestros niños? ¡Mirad cómo el mal está delante de vuestro rostro! "}},
+{"model":"bookdata.reference", "pk": 1828 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 11 ,"text":" No será así "}},
+{"model":"bookdata.reference", "pk": 1829 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 12 ,"text":" Entonces Jehová dijo a Moisés: Extiende tu mano sobre la tierra de Egipto para traer la langosta, a fin de que suba sobre el país de Egipto, y consuma todo lo que el granizo dejó. "}},
+{"model":"bookdata.reference", "pk": 1830 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 13 ,"text":" Y extendió Moisés su vara sobre la tierra de Egipto, y Jehová trajo un viento oriental sobre el país todo aquel día y toda aquella noche "}},
+{"model":"bookdata.reference", "pk": 1831 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 14 ,"text":" Y subió la langosta sobre toda la tierra de Egipto, y se asentó en todo el país de Egipto en tan gran cantidad como no la hubo antes ni la habrá después "}},
+{"model":"bookdata.reference", "pk": 1832 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 15 ,"text":" y cubrió la faz de todo el país, y oscureció la tierra "}},
+{"model":"bookdata.reference", "pk": 1833 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 16 ,"text":" Entonces Faraón se apresuró a llamar a Moisés y a Aarón, y dijo: He pecado contra Jehová vuestro Dios, y contra vosotros. "}},
+{"model":"bookdata.reference", "pk": 1834 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 17 ,"text":" Mas os ruego ahora que perdonéis mi pecado solamente esta vez, y que oréis a Jehová vuestro Dios que quite de mí al menos esta plaga mortal. "}},
+{"model":"bookdata.reference", "pk": 1835 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 18 ,"text":" Y salió Moisés de delante de Faraón, y oró a Jehová. "}},
+{"model":"bookdata.reference", "pk": 1836 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 19 ,"text":" Entonces Jehová trajo un fortísimo viento occidental, y quitó la langosta y la arrojó en el Mar Rojo "}},
+{"model":"bookdata.reference", "pk": 1837 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 20 ,"text":" Pero Jehová endureció el corazón de Faraón, y éste no dejó ir a los hijos de Israel. "}},
+{"model":"bookdata.reference", "pk": 1838 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 21 ,"text":" Jehová dijo a Moisés: Extiende tu mano hacia el cielo, para que haya tinieblas sobre la tierra de Egipto, tanto que cualquiera las palpe. "}},
+{"model":"bookdata.reference", "pk": 1839 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 22 ,"text":" Y extendió Moisés su mano hacia el cielo, y hubo densas tinieblas sobre toda la tierra de Egipto, por tres días. "}},
+{"model":"bookdata.reference", "pk": 1840 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 23 ,"text":" Ninguno vio a su prójimo, ni nadie se levantó de su lugar en tres días "}},
+{"model":"bookdata.reference", "pk": 1841 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 24 ,"text":" Entonces Faraón hizo llamar a Moisés, y dijo: Id, servid a Jehová "}},
+{"model":"bookdata.reference", "pk": 1842 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 25 ,"text":" Y Moisés respondió: Tú también nos darás sacrificios y holocaustos que sacrifiquemos para Jehová nuestro Dios. "}},
+{"model":"bookdata.reference", "pk": 1843 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 26 ,"text":" Nuestros ganados irán también con nosotros "}},
+{"model":"bookdata.reference", "pk": 1844 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 27 ,"text":" Pero Jehová endureció el corazón de Faraón, y no quiso dejarlos ir. "}},
+{"model":"bookdata.reference", "pk": 1845 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 28 ,"text":" Y le dijo Faraón: Retírate de mí "}},
+{"model":"bookdata.reference", "pk": 1846 ,"fields":{"book":  2 ,"chapter": 10 ,"verse": 29 ,"text":" Y Moisés respondió: Bien has dicho "}}
+
 ]
