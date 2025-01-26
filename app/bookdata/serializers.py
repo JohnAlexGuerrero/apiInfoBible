@@ -26,5 +26,6 @@ class ReferenceSerializer(serializers.ModelSerializer):
             'ref',
             'text',
             'get_absolute_url',
+            'get_links',
         ]
         

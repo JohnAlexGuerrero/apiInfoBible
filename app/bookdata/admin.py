@@ -1,11 +1,16 @@
 from django.contrib import admin
 
-from bookdata.models import Book, Reference, PlaceReference
+from bookdata.models import Book, Reference, PlaceReference, Link
 from person.models import Character, Feature, Genealogy
 from geography.models import Place
 from event.models import Event
 
 # Register your models here.
+@admin.register(Link)
+class LinkAdmin(admin.ModelAdmin):
+    pass
+
+
 @admin.register(Book)
 class BookAdmin(admin.ModelAdmin):
     list_display = ['name', 'short_name']

@@ -102,6 +102,27 @@ class Reference(models.Model):
     def get_absolute_url(self):
         return f'http://localhost:8000/api/v1/verse/{self.id}/'
     
+    def get_links(self):
+        links = []
+        
+        if self.refs.all():
+            for x in self.refs.all():
+                for y in x.links_references.all():
+                    links.append({"link_name": f'{y}',"link_url":f'http://localhost:8000/api/v1/verse/{y.id}'})            
+        return links
+
+# modelo Links, este metodo permite la relacion entre versiculos, con cardinalidad n:m
+class Link(models.Model):
+    reference = models.ForeignKey(Reference, on_delete=models.CASCADE, related_name="refs")
+    links_references = models.ManyToManyField(Reference, verbose_name=("link"), related_name="links")
+
+    class Meta:
+        verbose_name = ("Link")
+        verbose_name_plural = ("Links")
+
+    def __str__(self):
+        return f"{self.reference.ref}"
+
 
 
 #model relaciona la Place table with the Reference table
